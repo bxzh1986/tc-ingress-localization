@@ -1,0 +1,7 @@
+scenario,all_intervals,active_intervals,true_ingresses,P1_matches,P2_matches,P1_all_interval_matches,P2_all_interval_matches,P1_inactive_mismatches,P2_inactive_mismatches,strict_candidates,positive_total_increment_candidates,observed_total_P1,observed_total_P2,evidence_type
+ideal_single_ingress,13,11,P1,11,0,13,2,0,0,P1,P1,92,0,model_counterexample_not_diagnostic_accuracy
+one_background_bpdu_on_true_ingress,13,11,P1,10,0,12,2,0,0,EMPTY,P1,93,0,model_counterexample_not_diagnostic_accuracy
+one_interior_snapshot_read_phase_error,13,11,P1,9,0,11,2,0,0,EMPTY,P1,92,0,model_counterexample_not_diagnostic_accuracy
+two_true_ingresses,13,11,P1;P2,0,0,2,2,0,0,EMPTY,P1;P2,48,44,model_counterexample_not_diagnostic_accuracy
+true_ingress_background_and_coincident_distractor,13,11,P1,10,11,12,13,0,0,P2,P1;P2,93,92,model_counterexample_not_diagnostic_accuracy
+background_only_in_one_inactive_interval,13,11,P1,11,0,12,2,1,0,P1,P1,93,0,model_counterexample_not_diagnostic_accuracy
