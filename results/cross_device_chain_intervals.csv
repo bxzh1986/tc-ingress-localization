@@ -1,0 +1,4 @@
+interval,A2_p23_d_rx_tcn,A2_d_global,A2_p25_d_tx_mst,A1_p5_d_rx_mst,A1_d_global,A2_p25_d_rx_hello,hello_proxy_s,note,evidence_type
+ep0->ep1,8,8,8,8,8,173,346,,field_observation
+fx0->fx1,0,0,0,0,0,117,234,,field_observation
+ep1->fx0,n/a,61,23,24,24,1379,2758,A2 GE1/0/23 counters restarted (port disabled and re-enabled) between snapshots,field_observation

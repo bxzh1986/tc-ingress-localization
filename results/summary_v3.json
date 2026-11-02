@@ -1,0 +1,383 @@
+{
+ "A1_ge105_type_totals": {
+  "dTCN": 0,
+  "dConfig": 0,
+  "dRST": 0,
+  "dMST": 92,
+  "dTotal": 92,
+  "global_dC": 92
+ },
+ "cross_device": {
+  "snapshots": [
+   {
+    "snapshot": "ep0",
+    "a1_checkpoint": 7,
+    "A2_global_tc": 1712421,
+    "A2_p23_rx_tcn": 3126,
+    "A2_p25_tx_mst": 2139602,
+    "A1_p5_rx_mst": 2139600,
+    "tx_minus_rx_A2toA1": 2,
+    "A1_p5_tx_mst": 43741,
+    "A2_p25_rx_mst": 43752,
+    "rx_minus_tx_A1toA2": 11,
+    "A1_global_tc": 1729658,
+    "A1_last_tc_age_s": 46,
+    "A2_last_tc_age_s": 10,
+    "evidence_type": "field_observation"
+   },
+   {
+    "snapshot": "ep1",
+    "a1_checkpoint": 8,
+    "A2_global_tc": 1712429,
+    "A2_p23_rx_tcn": 3134,
+    "A2_p25_tx_mst": 2139610,
+    "A1_p5_rx_mst": 2139608,
+    "tx_minus_rx_A2toA1": 2,
+    "A1_p5_tx_mst": 43914,
+    "A2_p25_rx_mst": 43925,
+    "rx_minus_tx_A1toA2": 11,
+    "A1_global_tc": 1729666,
+    "A1_last_tc_age_s": 15,
+    "A2_last_tc_age_s": 0,
+    "evidence_type": "field_observation"
+   },
+   {
+    "snapshot": "fx0",
+    "a1_checkpoint": 13,
+    "A2_global_tc": 1712490,
+    "A2_p23_rx_tcn": 17,
+    "A2_p25_tx_mst": 2139633,
+    "A1_p5_rx_mst": 2139632,
+    "tx_minus_rx_A2toA1": 1,
+    "A1_p5_tx_mst": 45294,
+    "A2_p25_rx_mst": 45304,
+    "rx_minus_tx_A1toA2": 10,
+    "A1_global_tc": 1729690,
+    "A1_last_tc_age_s": 43,
+    "A2_last_tc_age_s": 64,
+    "evidence_type": "field_observation"
+   },
+   {
+    "snapshot": "fx1",
+    "a1_checkpoint": 14,
+    "A2_global_tc": 1712490,
+    "A2_p23_rx_tcn": 17,
+    "A2_p25_tx_mst": 2139633,
+    "A1_p5_rx_mst": 2139632,
+    "tx_minus_rx_A2toA1": 1,
+    "A1_p5_tx_mst": 45410,
+    "A2_p25_rx_mst": 45421,
+    "rx_minus_tx_A1toA2": 11,
+    "A1_global_tc": 1729690,
+    "A1_last_tc_age_s": 277,
+    "A2_last_tc_age_s": 297,
+    "evidence_type": "field_observation"
+   }
+  ],
+  "intervals": [
+   {
+    "interval": "ep0->ep1",
+    "A2_p23_d_rx_tcn": 8,
+    "A2_d_global": 8,
+    "A2_p25_d_tx_mst": 8,
+    "A1_p5_d_rx_mst": 8,
+    "A1_d_global": 8,
+    "A2_p25_d_rx_hello": 173,
+    "hello_proxy_s": 346,
+    "note": "",
+    "evidence_type": "field_observation"
+   },
+   {
+    "interval": "fx0->fx1",
+    "A2_p23_d_rx_tcn": 0,
+    "A2_d_global": 0,
+    "A2_p25_d_tx_mst": 0,
+    "A1_p5_d_rx_mst": 0,
+    "A1_d_global": 0,
+    "A2_p25_d_rx_hello": 117,
+    "hello_proxy_s": 234,
+    "note": "",
+    "evidence_type": "field_observation"
+   },
+   {
+    "interval": "ep1->fx0",
+    "A2_p23_d_rx_tcn": "n/a",
+    "A2_d_global": 61,
+    "A2_p25_d_tx_mst": 23,
+    "A1_p5_d_rx_mst": 24,
+    "A1_d_global": 24,
+    "A2_p25_d_rx_hello": 1379,
+    "hello_proxy_s": 2758,
+    "note": "A2 GE1/0/23 counters restarted (port disabled and re-enabled) between snapshots",
+    "evidence_type": "field_observation"
+   }
+  ],
+  "timer_window_A2_fx_s": 233
+ },
+ "native": {
+  "A1_uptime": "7 weeks, 3 days, 19 hours, 11 minutes",
+  "A2_uptime": "7 weeks, 3 days, 19 hours, 12 minutes",
+  "A1_global_tc": 1729714,
+  "A1_sum_port_tc_receive": 1729714,
+  "A1_global_equals_sum": true,
+  "A1_p5_tc_receive": 1729649,
+  "A1_p5_tc_send": 61,
+  "A1_other_ports_tc_receive": 65,
+  "A1_other_ports_tc_send": {
+   "Bridge-Aggregation1": 1791191,
+   "GigabitEthernet1/0/1": 1791194,
+   "GigabitEthernet1/0/2": 1791191,
+   "GigabitEthernet1/0/3": 1791184,
+   "GigabitEthernet1/0/7": 1791192
+  },
+  "A1_p5_share_of_tc_receive": 0.9999624215332709,
+  "A1_p5_mst_received": 2139656,
+  "A1_p5_non_tc_mst": 410007,
+  "A1_p5_tc_detected": 1,
+  "C_minus_B_reconstructed": -409942,
+  "C_minus_B_observed_1030": -409942,
+  "end_to_end": {
+   "TC_A2toA1": [
+    1729649,
+    1729649
+   ],
+   "TC_A1toA2": [
+    61,
+    61
+   ],
+   "TCA_A1toA2": [
+    3189,
+    3189
+   ],
+   "TCA_A2toA1": [
+    55,
+    55
+   ],
+   "MST_A2toA1": [
+    2139657,
+    2139656
+   ],
+   "MST_A1toA2": [
+    169301,
+    169313
+   ]
+  },
+  "A2_global_tc": 1712526,
+  "A2_sum_port_tc_receive": 97,
+  "A2_p23_tcn_received": 36,
+  "A2_p23_tc_detected": 1,
+  "A2_p23_config_sent": 122999,
+  "A2_p25_tc_detected": 1,
+  "A2_p25_tc_sent": 1729649,
+  "A1_log_notified_tc": 246,
+  "A1_log_notified_ports": [
+   "GigabitEthernet1/0/5"
+  ],
+  "evidence_type": "native_counter"
+ },
+ "field_rules": {
+  "A1": {
+   "R1_strict": [
+    "GigabitEthernet1/0/5"
+   ],
+   "R2_positive": [
+    "GigabitEthernet1/0/5"
+   ],
+   "R3_largest_cum": [
+    "GigabitEthernet1/0/5"
+   ],
+   "R4_tolerance": [
+    "GigabitEthernet1/0/5"
+   ],
+   "R5_subset_sum": [
+    "GigabitEthernet1/0/5"
+   ]
+  },
+  "A2_ep": {
+   "R1_strict": [
+    "GigabitEthernet1/0/23"
+   ],
+   "R2_positive": [
+    "GigabitEthernet1/0/23",
+    "GigabitEthernet1/0/25"
+   ],
+   "R3_largest_cum": [
+    "GigabitEthernet1/0/23"
+   ],
+   "R4_tolerance": [
+    "GigabitEthernet1/0/23"
+   ],
+   "R5_subset_sum": [
+    "GigabitEthernet1/0/23"
+   ]
+  },
+  "A2_dC": 8,
+  "A2_native_largest_cumulative_tc": "GigabitEthernet1/0/25"
+ },
+ "rules_by_scenario": [
+  {
+   "scenario": "S1 ideal single ingress",
+   "true_ingress": "P1",
+   "R1_strict": "{P1}",
+   "R1_strict_verdict": "correct",
+   "R2_positive": "{P1}",
+   "R2_positive_verdict": "correct",
+   "R3_largest_cum": "{P1}",
+   "R3_largest_cum_verdict": "correct",
+   "R4_tolerance": "{P1}",
+   "R4_tolerance_verdict": "correct",
+   "R5_subset_sum": "{P1}",
+   "R5_subset_sum_verdict": "correct",
+   "evidence_type": "constructed_model"
+  },
+  {
+   "scenario": "S2 +1 ordinary BPDU on true ingress",
+   "true_ingress": "P1",
+   "R1_strict": "empty",
+   "R1_strict_verdict": "empty",
+   "R2_positive": "{P1}",
+   "R2_positive_verdict": "correct",
+   "R3_largest_cum": "{P1}",
+   "R3_largest_cum_verdict": "correct",
+   "R4_tolerance": "{P1}",
+   "R4_tolerance_verdict": "correct",
+   "R5_subset_sum": "empty",
+   "R5_subset_sum_verdict": "empty",
+   "evidence_type": "constructed_model"
+  },
+  {
+   "scenario": "S3 one interior snapshot misread by 1",
+   "true_ingress": "P1",
+   "R1_strict": "empty",
+   "R1_strict_verdict": "empty",
+   "R2_positive": "{P1}",
+   "R2_positive_verdict": "correct",
+   "R3_largest_cum": "{P1}",
+   "R3_largest_cum_verdict": "correct",
+   "R4_tolerance": "{P1}",
+   "R4_tolerance_verdict": "correct",
+   "R5_subset_sum": "empty",
+   "R5_subset_sum_verdict": "empty",
+   "evidence_type": "constructed_model"
+  },
+  {
+   "scenario": "S4 two ingresses (48 + 44)",
+   "true_ingress": "P1+P2",
+   "R1_strict": "empty",
+   "R1_strict_verdict": "empty",
+   "R2_positive": "{P1,P2}",
+   "R2_positive_verdict": "correct",
+   "R3_largest_cum": "{P1}",
+   "R3_largest_cum_verdict": "wrong unique",
+   "R4_tolerance": "empty",
+   "R4_tolerance_verdict": "empty",
+   "R5_subset_sum": "{P1,P2}",
+   "R5_subset_sum_verdict": "correct",
+   "evidence_type": "constructed_model"
+  },
+  {
+   "scenario": "S5 coincident background on another port",
+   "true_ingress": "P1",
+   "R1_strict": "{P2}",
+   "R1_strict_verdict": "wrong unique",
+   "R2_positive": "{P1,P2}",
+   "R2_positive_verdict": "covers (non-unique)",
+   "R3_largest_cum": "{P1}",
+   "R3_largest_cum_verdict": "correct",
+   "R4_tolerance": "{P1,P2}",
+   "R4_tolerance_verdict": "covers (non-unique)",
+   "R5_subset_sum": "{P2}",
+   "R5_subset_sum_verdict": "wrong unique",
+   "evidence_type": "constructed_model"
+  },
+  {
+   "scenario": "S6 +1 ordinary BPDU in a zero interval",
+   "true_ingress": "P1",
+   "R1_strict": "{P1}",
+   "R1_strict_verdict": "correct",
+   "R2_positive": "{P1}",
+   "R2_positive_verdict": "correct",
+   "R3_largest_cum": "{P1}",
+   "R3_largest_cum_verdict": "correct",
+   "R4_tolerance": "{P1}",
+   "R4_tolerance_verdict": "correct",
+   "R5_subset_sum": "{P1}",
+   "R5_subset_sum_verdict": "correct",
+   "evidence_type": "constructed_model"
+  },
+  {
+   "scenario": "S7 non-coincident periodic background on another port",
+   "true_ingress": "P1",
+   "R1_strict": "{P1}",
+   "R1_strict_verdict": "correct",
+   "R2_positive": "{P1,P2}",
+   "R2_positive_verdict": "covers (non-unique)",
+   "R3_largest_cum": "{P1}",
+   "R3_largest_cum_verdict": "correct",
+   "R4_tolerance": "{P1}",
+   "R4_tolerance_verdict": "correct",
+   "R5_subset_sum": "{P1}",
+   "R5_subset_sum_verdict": "correct",
+   "evidence_type": "constructed_model"
+  }
+ ],
+ "simulation": {
+  "reps_per_condition": 30,
+  "conditions": [
+   "C0 baseline",
+   "C1 background on true ingress",
+   "C2 periodic background on another port",
+   "C3 two ingresses",
+   "C4 non-atomic readout (skew <= 1 s)",
+   "C5 C1 + C2 + C4 combined"
+  ],
+  "H1H2_identical_at_R_S": 180,
+  "H1H2_runs": 180,
+  "X_log_separates": 180
+ },
+ "identifiability": {
+  "hypothesis_space": {
+   "A1": 6414336,
+   "A2": 116,
+   "total": 744062976
+  },
+  "surviving": {
+   "A1": 3,
+   "A2": 3,
+   "total": 9
+  },
+  "attributes": {
+   "A1_ingress": [
+    "GigabitEthernet1/0/5"
+   ],
+   "A1_background_on_ingress_in_window": [
+    "0",
+    "1"
+   ],
+   "A1_readout_deviation": [
+    "(0, 1)",
+    "(13, -1)",
+    "None"
+   ],
+   "A2_ingress": [
+    "GigabitEthernet1/0/23"
+   ],
+   "origin": [
+    "X-local (H1)",
+    "Y relayed by X (H2)",
+    "beyond Y"
+   ]
+  },
+  "with_X_detection_log": {
+   "origin_if_X_detected_gt0": [
+    "X-local (H1)"
+   ],
+   "origin_if_X_detected_eq0": [
+    "Y relayed by X (H2)",
+    "beyond Y"
+   ],
+   "note": "adding X's TC-detected record splits the surviving origin set; one further hop (Y) is needed to separate H2 from beyond-Y"
+  },
+  "evidence_type": "field_observation + constructed hypothesis space"
+ }
+}

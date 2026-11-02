@@ -1,0 +1,61 @@
+{
+ "A1_uptime": "7 weeks, 3 days, 19 hours, 11 minutes",
+ "A2_uptime": "7 weeks, 3 days, 19 hours, 12 minutes",
+ "A1_global_tc": 1729714,
+ "A1_sum_port_tc_receive": 1729714,
+ "A1_global_equals_sum": true,
+ "A1_p5_tc_receive": 1729649,
+ "A1_p5_tc_send": 61,
+ "A1_other_ports_tc_receive": 65,
+ "A1_other_ports_tc_send": {
+  "Bridge-Aggregation1": 1791191,
+  "GigabitEthernet1/0/1": 1791194,
+  "GigabitEthernet1/0/2": 1791191,
+  "GigabitEthernet1/0/3": 1791184,
+  "GigabitEthernet1/0/7": 1791192
+ },
+ "A1_p5_share_of_tc_receive": 0.9999624215332709,
+ "A1_p5_mst_received": 2139656,
+ "A1_p5_non_tc_mst": 410007,
+ "A1_p5_tc_detected": 1,
+ "C_minus_B_reconstructed": -409942,
+ "C_minus_B_observed_1030": -409942,
+ "end_to_end": {
+  "TC_A2toA1": [
+   1729649,
+   1729649
+  ],
+  "TC_A1toA2": [
+   61,
+   61
+  ],
+  "TCA_A1toA2": [
+   3189,
+   3189
+  ],
+  "TCA_A2toA1": [
+   55,
+   55
+  ],
+  "MST_A2toA1": [
+   2139657,
+   2139656
+  ],
+  "MST_A1toA2": [
+   169301,
+   169313
+  ]
+ },
+ "A2_global_tc": 1712526,
+ "A2_sum_port_tc_receive": 97,
+ "A2_p23_tcn_received": 36,
+ "A2_p23_tc_detected": 1,
+ "A2_p23_config_sent": 122999,
+ "A2_p25_tc_detected": 1,
+ "A2_p25_tc_sent": 1729649,
+ "A1_log_notified_tc": 246,
+ "A1_log_notified_ports": [
+  "GigabitEthernet1/0/5"
+ ],
+ "evidence_type": "native_counter"
+}

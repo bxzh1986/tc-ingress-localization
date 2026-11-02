@@ -1,0 +1,29 @@
+interface,role,state,d_rx_total,d_rx_tcn,d_rx_config,d_rx_mst,cum_rx_total,evidence_type
+GigabitEthernet1/0/1,Designated Port,FORWARDING,0,0,0,0,0,field_observation
+GigabitEthernet1/0/2,Disabled Port,DOWN,0,0,0,0,0,field_observation
+GigabitEthernet1/0/3,Designated Port,FORWARDING,0,0,0,0,0,field_observation
+GigabitEthernet1/0/4,Disabled Port,DOWN,0,0,0,0,0,field_observation
+GigabitEthernet1/0/5,Disabled Port,DOWN,0,0,0,0,0,field_observation
+GigabitEthernet1/0/6,Designated Port,FORWARDING,0,0,0,0,0,field_observation
+GigabitEthernet1/0/7,Disabled Port,DOWN,0,0,0,0,0,field_observation
+GigabitEthernet1/0/8,Disabled Port,DOWN,0,0,0,0,0,field_observation
+GigabitEthernet1/0/9,Disabled Port,DOWN,0,0,0,0,0,field_observation
+GigabitEthernet1/0/10,Designated Port,FORWARDING,0,0,0,0,0,field_observation
+GigabitEthernet1/0/11,Disabled Port,DOWN,0,0,0,0,0,field_observation
+GigabitEthernet1/0/12,Disabled Port,DOWN,0,0,0,0,0,field_observation
+GigabitEthernet1/0/13,Disabled Port,DOWN,0,0,0,0,0,field_observation
+GigabitEthernet1/0/14,Disabled Port,DOWN,0,0,0,0,0,field_observation
+GigabitEthernet1/0/15,Designated Port,FORWARDING,0,0,0,0,0,field_observation
+GigabitEthernet1/0/16,Disabled Port,DOWN,0,0,0,0,0,field_observation
+GigabitEthernet1/0/17,Disabled Port,DOWN,0,0,0,0,0,field_observation
+GigabitEthernet1/0/18,Designated Port,FORWARDING,0,0,0,0,0,field_observation
+GigabitEthernet1/0/19,Designated Port,FORWARDING,0,0,0,0,0,field_observation
+GigabitEthernet1/0/20,Disabled Port,DOWN,0,0,0,0,0,field_observation
+GigabitEthernet1/0/21,Disabled Port,DOWN,0,0,0,0,0,field_observation
+GigabitEthernet1/0/22,Disabled Port,DOWN,0,0,0,0,0,field_observation
+GigabitEthernet1/0/23,Designated Port (Boundary),FORWARDING,8,8,0,0,971890,field_observation
+GigabitEthernet1/0/24,Disabled Port,DOWN,0,0,0,0,0,field_observation
+GigabitEthernet1/0/25,Root Port (Boundary),FORWARDING,173,0,0,173,43925,field_observation
+GigabitEthernet1/0/26,Disabled Port,DOWN,0,0,0,0,0,field_observation
+GigabitEthernet1/0/27,Disabled Port,DOWN,0,0,0,0,0,field_observation
+GigabitEthernet1/0/28,Disabled Port,DOWN,0,0,0,0,0,field_observation

@@ -1,0 +1,181 @@
+condition,rep,observations_identical_H1_H2,X_log_separates,evidence_type
+C0 baseline,0,True,True,simulation
+C0 baseline,1,True,True,simulation
+C0 baseline,2,True,True,simulation
+C0 baseline,3,True,True,simulation
+C0 baseline,4,True,True,simulation
+C0 baseline,5,True,True,simulation
+C0 baseline,6,True,True,simulation
+C0 baseline,7,True,True,simulation
+C0 baseline,8,True,True,simulation
+C0 baseline,9,True,True,simulation
+C0 baseline,10,True,True,simulation
+C0 baseline,11,True,True,simulation
+C0 baseline,12,True,True,simulation
+C0 baseline,13,True,True,simulation
+C0 baseline,14,True,True,simulation
+C0 baseline,15,True,True,simulation
+C0 baseline,16,True,True,simulation
+C0 baseline,17,True,True,simulation
+C0 baseline,18,True,True,simulation
+C0 baseline,19,True,True,simulation
+C0 baseline,20,True,True,simulation
+C0 baseline,21,True,True,simulation
+C0 baseline,22,True,True,simulation
+C0 baseline,23,True,True,simulation
+C0 baseline,24,True,True,simulation
+C0 baseline,25,True,True,simulation
+C0 baseline,26,True,True,simulation
+C0 baseline,27,True,True,simulation
+C0 baseline,28,True,True,simulation
+C0 baseline,29,True,True,simulation
+C1 background on true ingress,0,True,True,simulation
+C1 background on true ingress,1,True,True,simulation
+C1 background on true ingress,2,True,True,simulation
+C1 background on true ingress,3,True,True,simulation
+C1 background on true ingress,4,True,True,simulation
+C1 background on true ingress,5,True,True,simulation
+C1 background on true ingress,6,True,True,simulation
+C1 background on true ingress,7,True,True,simulation
+C1 background on true ingress,8,True,True,simulation
+C1 background on true ingress,9,True,True,simulation
+C1 background on true ingress,10,True,True,simulation
+C1 background on true ingress,11,True,True,simulation
+C1 background on true ingress,12,True,True,simulation
+C1 background on true ingress,13,True,True,simulation
+C1 background on true ingress,14,True,True,simulation
+C1 background on true ingress,15,True,True,simulation
+C1 background on true ingress,16,True,True,simulation
+C1 background on true ingress,17,True,True,simulation
+C1 background on true ingress,18,True,True,simulation
+C1 background on true ingress,19,True,True,simulation
+C1 background on true ingress,20,True,True,simulation
+C1 background on true ingress,21,True,True,simulation
+C1 background on true ingress,22,True,True,simulation
+C1 background on true ingress,23,True,True,simulation
+C1 background on true ingress,24,True,True,simulation
+C1 background on true ingress,25,True,True,simulation
+C1 background on true ingress,26,True,True,simulation
+C1 background on true ingress,27,True,True,simulation
+C1 background on true ingress,28,True,True,simulation
+C1 background on true ingress,29,True,True,simulation
+C2 periodic background on another port,0,True,True,simulation
+C2 periodic background on another port,1,True,True,simulation
+C2 periodic background on another port,2,True,True,simulation
+C2 periodic background on another port,3,True,True,simulation
+C2 periodic background on another port,4,True,True,simulation
+C2 periodic background on another port,5,True,True,simulation
+C2 periodic background on another port,6,True,True,simulation
+C2 periodic background on another port,7,True,True,simulation
+C2 periodic background on another port,8,True,True,simulation
+C2 periodic background on another port,9,True,True,simulation
+C2 periodic background on another port,10,True,True,simulation
+C2 periodic background on another port,11,True,True,simulation
+C2 periodic background on another port,12,True,True,simulation
+C2 periodic background on another port,13,True,True,simulation
+C2 periodic background on another port,14,True,True,simulation
+C2 periodic background on another port,15,True,True,simulation
+C2 periodic background on another port,16,True,True,simulation
+C2 periodic background on another port,17,True,True,simulation
+C2 periodic background on another port,18,True,True,simulation
+C2 periodic background on another port,19,True,True,simulation
+C2 periodic background on another port,20,True,True,simulation
+C2 periodic background on another port,21,True,True,simulation
+C2 periodic background on another port,22,True,True,simulation
+C2 periodic background on another port,23,True,True,simulation
+C2 periodic background on another port,24,True,True,simulation
+C2 periodic background on another port,25,True,True,simulation
+C2 periodic background on another port,26,True,True,simulation
+C2 periodic background on another port,27,True,True,simulation
+C2 periodic background on another port,28,True,True,simulation
+C2 periodic background on another port,29,True,True,simulation
+C3 two ingresses,0,True,True,simulation
+C3 two ingresses,1,True,True,simulation
+C3 two ingresses,2,True,True,simulation
+C3 two ingresses,3,True,True,simulation
+C3 two ingresses,4,True,True,simulation
+C3 two ingresses,5,True,True,simulation
+C3 two ingresses,6,True,True,simulation
+C3 two ingresses,7,True,True,simulation
+C3 two ingresses,8,True,True,simulation
+C3 two ingresses,9,True,True,simulation
+C3 two ingresses,10,True,True,simulation
+C3 two ingresses,11,True,True,simulation
+C3 two ingresses,12,True,True,simulation
+C3 two ingresses,13,True,True,simulation
+C3 two ingresses,14,True,True,simulation
+C3 two ingresses,15,True,True,simulation
+C3 two ingresses,16,True,True,simulation
+C3 two ingresses,17,True,True,simulation
+C3 two ingresses,18,True,True,simulation
+C3 two ingresses,19,True,True,simulation
+C3 two ingresses,20,True,True,simulation
+C3 two ingresses,21,True,True,simulation
+C3 two ingresses,22,True,True,simulation
+C3 two ingresses,23,True,True,simulation
+C3 two ingresses,24,True,True,simulation
+C3 two ingresses,25,True,True,simulation
+C3 two ingresses,26,True,True,simulation
+C3 two ingresses,27,True,True,simulation
+C3 two ingresses,28,True,True,simulation
+C3 two ingresses,29,True,True,simulation
+C4 non-atomic readout (skew <= 1 s),0,True,True,simulation
+C4 non-atomic readout (skew <= 1 s),1,True,True,simulation
+C4 non-atomic readout (skew <= 1 s),2,True,True,simulation
+C4 non-atomic readout (skew <= 1 s),3,True,True,simulation
+C4 non-atomic readout (skew <= 1 s),4,True,True,simulation
+C4 non-atomic readout (skew <= 1 s),5,True,True,simulation
+C4 non-atomic readout (skew <= 1 s),6,True,True,simulation
+C4 non-atomic readout (skew <= 1 s),7,True,True,simulation
+C4 non-atomic readout (skew <= 1 s),8,True,True,simulation
+C4 non-atomic readout (skew <= 1 s),9,True,True,simulation
+C4 non-atomic readout (skew <= 1 s),10,True,True,simulation
+C4 non-atomic readout (skew <= 1 s),11,True,True,simulation
+C4 non-atomic readout (skew <= 1 s),12,True,True,simulation
+C4 non-atomic readout (skew <= 1 s),13,True,True,simulation
+C4 non-atomic readout (skew <= 1 s),14,True,True,simulation
+C4 non-atomic readout (skew <= 1 s),15,True,True,simulation
+C4 non-atomic readout (skew <= 1 s),16,True,True,simulation
+C4 non-atomic readout (skew <= 1 s),17,True,True,simulation
+C4 non-atomic readout (skew <= 1 s),18,True,True,simulation
+C4 non-atomic readout (skew <= 1 s),19,True,True,simulation
+C4 non-atomic readout (skew <= 1 s),20,True,True,simulation
+C4 non-atomic readout (skew <= 1 s),21,True,True,simulation
+C4 non-atomic readout (skew <= 1 s),22,True,True,simulation
+C4 non-atomic readout (skew <= 1 s),23,True,True,simulation
+C4 non-atomic readout (skew <= 1 s),24,True,True,simulation
+C4 non-atomic readout (skew <= 1 s),25,True,True,simulation
+C4 non-atomic readout (skew <= 1 s),26,True,True,simulation
+C4 non-atomic readout (skew <= 1 s),27,True,True,simulation
+C4 non-atomic readout (skew <= 1 s),28,True,True,simulation
+C4 non-atomic readout (skew <= 1 s),29,True,True,simulation
+C5 C1 + C2 + C4 combined,0,True,True,simulation
+C5 C1 + C2 + C4 combined,1,True,True,simulation
+C5 C1 + C2 + C4 combined,2,True,True,simulation
+C5 C1 + C2 + C4 combined,3,True,True,simulation
+C5 C1 + C2 + C4 combined,4,True,True,simulation
+C5 C1 + C2 + C4 combined,5,True,True,simulation
+C5 C1 + C2 + C4 combined,6,True,True,simulation
+C5 C1 + C2 + C4 combined,7,True,True,simulation
+C5 C1 + C2 + C4 combined,8,True,True,simulation
+C5 C1 + C2 + C4 combined,9,True,True,simulation
+C5 C1 + C2 + C4 combined,10,True,True,simulation
+C5 C1 + C2 + C4 combined,11,True,True,simulation
+C5 C1 + C2 + C4 combined,12,True,True,simulation
+C5 C1 + C2 + C4 combined,13,True,True,simulation
+C5 C1 + C2 + C4 combined,14,True,True,simulation
+C5 C1 + C2 + C4 combined,15,True,True,simulation
+C5 C1 + C2 + C4 combined,16,True,True,simulation
+C5 C1 + C2 + C4 combined,17,True,True,simulation
+C5 C1 + C2 + C4 combined,18,True,True,simulation
+C5 C1 + C2 + C4 combined,19,True,True,simulation
+C5 C1 + C2 + C4 combined,20,True,True,simulation
+C5 C1 + C2 + C4 combined,21,True,True,simulation
+C5 C1 + C2 + C4 combined,22,True,True,simulation
+C5 C1 + C2 + C4 combined,23,True,True,simulation
+C5 C1 + C2 + C4 combined,24,True,True,simulation
+C5 C1 + C2 + C4 combined,25,True,True,simulation
+C5 C1 + C2 + C4 combined,26,True,True,simulation
+C5 C1 + C2 + C4 combined,27,True,True,simulation
+C5 C1 + C2 + C4 combined,28,True,True,simulation
+C5 C1 + C2 + C4 combined,29,True,True,simulation

@@ -1,0 +1,8 @@
+scenario,true_ingress,R1_strict,R1_strict_verdict,R2_positive,R2_positive_verdict,R3_largest_cum,R3_largest_cum_verdict,R4_tolerance,R4_tolerance_verdict,R5_subset_sum,R5_subset_sum_verdict,evidence_type
+S1 ideal single ingress,P1,{P1},correct,{P1},correct,{P1},correct,{P1},correct,{P1},correct,constructed_model
+S2 +1 ordinary BPDU on true ingress,P1,empty,empty,{P1},correct,{P1},correct,{P1},correct,empty,empty,constructed_model
+S3 one interior snapshot misread by 1,P1,empty,empty,{P1},correct,{P1},correct,{P1},correct,empty,empty,constructed_model
+S4 two ingresses (48 + 44),P1+P2,empty,empty,"{P1,P2}",correct,{P1},wrong unique,empty,empty,"{P1,P2}",correct,constructed_model
+S5 coincident background on another port,P1,{P2},wrong unique,"{P1,P2}",covers (non-unique),{P1},correct,"{P1,P2}",covers (non-unique),{P2},wrong unique,constructed_model
+S6 +1 ordinary BPDU in a zero interval,P1,{P1},correct,{P1},correct,{P1},correct,{P1},correct,{P1},correct,constructed_model
+S7 non-coincident periodic background on another port,P1,{P1},correct,"{P1,P2}",covers (non-unique),{P1},correct,{P1},correct,{P1},correct,constructed_model

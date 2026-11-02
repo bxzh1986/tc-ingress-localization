@@ -1,0 +1,14 @@
+interval,global_dC,dTCN,dConfig,dRST,dMST,dTotal,evidence_type
+1->2,3,0,0,0,3,3,field_observation
+2->3,41,0,0,0,41,41,field_observation
+3->4,5,0,0,0,5,5,field_observation
+4->5,2,0,0,0,2,2,field_observation
+5->6,4,0,0,0,4,4,field_observation
+6->7,5,0,0,0,5,5,field_observation
+7->8,8,0,0,0,8,8,field_observation
+8->9,16,0,0,0,16,16,field_observation
+9->10,0,0,0,0,0,0,field_observation
+10->11,2,0,0,0,2,2,field_observation
+11->12,2,0,0,0,2,2,field_observation
+12->13,4,0,0,0,4,4,field_observation
+13->14,0,0,0,0,0,0,field_observation

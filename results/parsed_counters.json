@@ -1,0 +1,4400 @@
+{
+ "A1_paired": {
+  "ep0": {
+   "global_tc": 1729658,
+   "last_tc_age_s": 46,
+   "ports": {
+    "Bridge-Aggregation1": {
+     "state": "FORWARDING",
+     "role": "Designated Port",
+     "sent": {
+      "total": 2211718,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 2211718
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/1": {
+     "state": "FORWARDING",
+     "role": "Designated Port (Boundary)",
+     "sent": {
+      "total": 2211721,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 2211721
+     },
+     "recv": {
+      "total": 13,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 13
+     }
+    },
+    "GigabitEthernet1/0/2": {
+     "state": "FORWARDING",
+     "role": "Designated Port (Boundary)",
+     "sent": {
+      "total": 2211720,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 2211720
+     },
+     "recv": {
+      "total": 13,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 13
+     }
+    },
+    "GigabitEthernet1/0/3": {
+     "state": "FORWARDING",
+     "role": "Designated Port (Boundary)",
+     "sent": {
+      "total": 2211719,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 2211719
+     },
+     "recv": {
+      "total": 32,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 32
+     }
+    },
+    "GigabitEthernet1/0/4": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/5": {
+     "state": "FORWARDING",
+     "role": "Designated Port (Boundary)",
+     "sent": {
+      "total": 43741,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 43741
+     },
+     "recv": {
+      "total": 2139600,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 2139600
+     }
+    },
+    "GigabitEthernet1/0/6": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/7": {
+     "state": "FORWARDING",
+     "role": "Designated Port (Boundary)",
+     "sent": {
+      "total": 2211720,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 2211720
+     },
+     "recv": {
+      "total": 11,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 11
+     }
+    },
+    "GigabitEthernet1/0/8": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/9": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/10": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/11": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/12": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/13": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/14": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/15": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/16": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/17": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/18": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/19": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/20": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/21": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/22": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/23": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/24": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "Ten-GigabitEthernet1/0/27": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "Ten-GigabitEthernet1/0/28": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    }
+   }
+  },
+  "ep1": {
+   "global_tc": 1729666,
+   "last_tc_age_s": 15,
+   "ports": {
+    "Bridge-Aggregation1": {
+     "state": "FORWARDING",
+     "role": "Designated Port",
+     "sent": {
+      "total": 2211891,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 2211891
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/1": {
+     "state": "FORWARDING",
+     "role": "Designated Port (Boundary)",
+     "sent": {
+      "total": 2211894,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 2211894
+     },
+     "recv": {
+      "total": 13,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 13
+     }
+    },
+    "GigabitEthernet1/0/2": {
+     "state": "FORWARDING",
+     "role": "Designated Port (Boundary)",
+     "sent": {
+      "total": 2211893,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 2211893
+     },
+     "recv": {
+      "total": 13,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 13
+     }
+    },
+    "GigabitEthernet1/0/3": {
+     "state": "FORWARDING",
+     "role": "Designated Port (Boundary)",
+     "sent": {
+      "total": 2211892,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 2211892
+     },
+     "recv": {
+      "total": 32,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 32
+     }
+    },
+    "GigabitEthernet1/0/4": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/5": {
+     "state": "FORWARDING",
+     "role": "Designated Port (Boundary)",
+     "sent": {
+      "total": 43914,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 43914
+     },
+     "recv": {
+      "total": 2139608,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 2139608
+     }
+    },
+    "GigabitEthernet1/0/6": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/7": {
+     "state": "FORWARDING",
+     "role": "Designated Port (Boundary)",
+     "sent": {
+      "total": 2211893,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 2211893
+     },
+     "recv": {
+      "total": 11,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 11
+     }
+    },
+    "GigabitEthernet1/0/8": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/9": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/10": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/11": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/12": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/13": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/14": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/15": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/16": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/17": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/18": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/19": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/20": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/21": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/22": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/23": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/24": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "Ten-GigabitEthernet1/0/27": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "Ten-GigabitEthernet1/0/28": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    }
+   }
+  },
+  "fx0": {
+   "global_tc": 1729690,
+   "last_tc_age_s": 43,
+   "ports": {
+    "Bridge-Aggregation1": {
+     "state": "FORWARDING",
+     "role": "Designated Port",
+     "sent": {
+      "total": 2213272,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 2213272
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/1": {
+     "state": "FORWARDING",
+     "role": "Designated Port (Boundary)",
+     "sent": {
+      "total": 2213275,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 2213275
+     },
+     "recv": {
+      "total": 13,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 13
+     }
+    },
+    "GigabitEthernet1/0/2": {
+     "state": "FORWARDING",
+     "role": "Designated Port (Boundary)",
+     "sent": {
+      "total": 2213274,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 2213274
+     },
+     "recv": {
+      "total": 13,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 13
+     }
+    },
+    "GigabitEthernet1/0/3": {
+     "state": "FORWARDING",
+     "role": "Designated Port (Boundary)",
+     "sent": {
+      "total": 2213273,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 2213273
+     },
+     "recv": {
+      "total": 32,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 32
+     }
+    },
+    "GigabitEthernet1/0/4": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/5": {
+     "state": "FORWARDING",
+     "role": "Designated Port (Boundary)",
+     "sent": {
+      "total": 45294,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 45294
+     },
+     "recv": {
+      "total": 2139632,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 2139632
+     }
+    },
+    "GigabitEthernet1/0/6": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/7": {
+     "state": "FORWARDING",
+     "role": "Designated Port (Boundary)",
+     "sent": {
+      "total": 2213274,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 2213274
+     },
+     "recv": {
+      "total": 11,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 11
+     }
+    },
+    "GigabitEthernet1/0/8": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/9": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/10": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/11": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/12": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/13": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/14": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/15": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/16": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/17": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/18": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/19": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/20": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/21": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/22": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/23": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/24": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "Ten-GigabitEthernet1/0/27": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "Ten-GigabitEthernet1/0/28": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    }
+   }
+  },
+  "fx1": {
+   "global_tc": 1729690,
+   "last_tc_age_s": 277,
+   "ports": {
+    "Bridge-Aggregation1": {
+     "state": "FORWARDING",
+     "role": "Designated Port",
+     "sent": {
+      "total": 2213389,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 2213389
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/1": {
+     "state": "FORWARDING",
+     "role": "Designated Port (Boundary)",
+     "sent": {
+      "total": 2213392,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 2213392
+     },
+     "recv": {
+      "total": 13,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 13
+     }
+    },
+    "GigabitEthernet1/0/2": {
+     "state": "FORWARDING",
+     "role": "Designated Port (Boundary)",
+     "sent": {
+      "total": 2213391,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 2213391
+     },
+     "recv": {
+      "total": 13,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 13
+     }
+    },
+    "GigabitEthernet1/0/3": {
+     "state": "FORWARDING",
+     "role": "Designated Port (Boundary)",
+     "sent": {
+      "total": 2213390,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 2213390
+     },
+     "recv": {
+      "total": 32,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 32
+     }
+    },
+    "GigabitEthernet1/0/4": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/5": {
+     "state": "FORWARDING",
+     "role": "Designated Port (Boundary)",
+     "sent": {
+      "total": 45410,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 45410
+     },
+     "recv": {
+      "total": 2139632,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 2139632
+     }
+    },
+    "GigabitEthernet1/0/6": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/7": {
+     "state": "FORWARDING",
+     "role": "Designated Port (Boundary)",
+     "sent": {
+      "total": 2213391,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 2213391
+     },
+     "recv": {
+      "total": 11,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 11
+     }
+    },
+    "GigabitEthernet1/0/8": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/9": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/10": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/11": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/12": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/13": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/14": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/15": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/16": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/17": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/18": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/19": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/20": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/21": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/22": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/23": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/24": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "Ten-GigabitEthernet1/0/27": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "Ten-GigabitEthernet1/0/28": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    }
+   }
+  }
+ },
+ "A2_paired": {
+  "ep0": {
+   "global_tc": 1712421,
+   "last_tc_age_s": 10,
+   "ports": {
+    "GigabitEthernet1/0/1": {
+     "state": "FORWARDING",
+     "role": "Designated Port",
+     "sent": {
+      "total": 969654,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 969654
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/2": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/3": {
+     "state": "FORWARDING",
+     "role": "Designated Port",
+     "sent": {
+      "total": 969565,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 969565
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/4": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/5": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/6": {
+     "state": "FORWARDING",
+     "role": "Designated Port",
+     "sent": {
+      "total": 969737,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 969737
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/7": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/8": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/9": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/10": {
+     "state": "FORWARDING",
+     "role": "Designated Port",
+     "sent": {
+      "total": 969687,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 969687
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/11": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/12": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/13": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/14": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/15": {
+     "state": "FORWARDING",
+     "role": "Designated Port",
+     "sent": {
+      "total": 969627,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 969627
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/16": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/17": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/18": {
+     "state": "FORWARDING",
+     "role": "Designated Port",
+     "sent": {
+      "total": 2180185,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 2180185
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/19": {
+     "state": "FORWARDING",
+     "role": "Designated Port",
+     "sent": {
+      "total": 969596,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 969596
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/20": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/21": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/22": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/23": {
+     "state": "FORWARDING",
+     "role": "Designated Port (Boundary)",
+     "sent": {
+      "total": 42165,
+      "tcn": 125,
+      "config": 42039,
+      "rst": 0,
+      "mst": 1
+     },
+     "recv": {
+      "total": 971882,
+      "tcn": 3126,
+      "config": 968756,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/24": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/25": {
+     "state": "FORWARDING",
+     "role": "Root Port (Boundary)",
+     "sent": {
+      "total": 2139602,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 2139602
+     },
+     "recv": {
+      "total": 43752,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 43752
+     }
+    },
+    "GigabitEthernet1/0/26": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/27": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/28": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    }
+   }
+  },
+  "ep1": {
+   "global_tc": 1712429,
+   "last_tc_age_s": 0,
+   "ports": {
+    "GigabitEthernet1/0/1": {
+     "state": "FORWARDING",
+     "role": "Designated Port",
+     "sent": {
+      "total": 969828,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 969828
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/2": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/3": {
+     "state": "FORWARDING",
+     "role": "Designated Port",
+     "sent": {
+      "total": 969739,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 969739
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/4": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/5": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/6": {
+     "state": "FORWARDING",
+     "role": "Designated Port",
+     "sent": {
+      "total": 969911,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 969911
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/7": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/8": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/9": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/10": {
+     "state": "FORWARDING",
+     "role": "Designated Port",
+     "sent": {
+      "total": 969860,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 969860
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/11": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/12": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/13": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/14": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/15": {
+     "state": "FORWARDING",
+     "role": "Designated Port",
+     "sent": {
+      "total": 969800,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 969800
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/16": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/17": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/18": {
+     "state": "FORWARDING",
+     "role": "Designated Port",
+     "sent": {
+      "total": 2180358,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 2180358
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/19": {
+     "state": "FORWARDING",
+     "role": "Designated Port",
+     "sent": {
+      "total": 969769,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 969769
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/20": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/21": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/22": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/23": {
+     "state": "FORWARDING",
+     "role": "Designated Port (Boundary)",
+     "sent": {
+      "total": 42338,
+      "tcn": 125,
+      "config": 42212,
+      "rst": 0,
+      "mst": 1
+     },
+     "recv": {
+      "total": 971890,
+      "tcn": 3134,
+      "config": 968756,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/24": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/25": {
+     "state": "FORWARDING",
+     "role": "Root Port (Boundary)",
+     "sent": {
+      "total": 2139610,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 2139610
+     },
+     "recv": {
+      "total": 43925,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 43925
+     }
+    },
+    "GigabitEthernet1/0/26": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/27": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/28": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    }
+   }
+  },
+  "fx0": {
+   "global_tc": 1712490,
+   "last_tc_age_s": 64,
+   "ports": {
+    "GigabitEthernet1/0/1": {
+     "state": "FORWARDING",
+     "role": "Designated Port",
+     "sent": {
+      "total": 971210,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 971210
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/2": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/3": {
+     "state": "FORWARDING",
+     "role": "Designated Port",
+     "sent": {
+      "total": 971121,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 971121
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/4": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/5": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/6": {
+     "state": "FORWARDING",
+     "role": "Designated Port",
+     "sent": {
+      "total": 971293,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 971293
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/7": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/8": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/9": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/10": {
+     "state": "FORWARDING",
+     "role": "Designated Port",
+     "sent": {
+      "total": 971242,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 971242
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/11": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/12": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/13": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/14": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/15": {
+     "state": "FORWARDING",
+     "role": "Designated Port",
+     "sent": {
+      "total": 971182,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 971182
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/16": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/17": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/18": {
+     "state": "FORWARDING",
+     "role": "Designated Port",
+     "sent": {
+      "total": 2181740,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 2181740
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/19": {
+     "state": "FORWARDING",
+     "role": "Designated Port",
+     "sent": {
+      "total": 971151,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 971151
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/20": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/21": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/22": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/23": {
+     "state": "FORWARDING",
+     "role": "Designated Port (Boundary)",
+     "sent": {
+      "total": 68,
+      "tcn": 0,
+      "config": 67,
+      "rst": 0,
+      "mst": 1
+     },
+     "recv": {
+      "total": 18,
+      "tcn": 17,
+      "config": 1,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/24": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/25": {
+     "state": "FORWARDING",
+     "role": "Root Port (Boundary)",
+     "sent": {
+      "total": 2139633,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 2139633
+     },
+     "recv": {
+      "total": 45304,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 45304
+     }
+    },
+    "GigabitEthernet1/0/26": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/27": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/28": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    }
+   }
+  },
+  "fx1": {
+   "global_tc": 1712490,
+   "last_tc_age_s": 297,
+   "ports": {
+    "GigabitEthernet1/0/1": {
+     "state": "FORWARDING",
+     "role": "Designated Port",
+     "sent": {
+      "total": 971326,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 971326
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/2": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/3": {
+     "state": "FORWARDING",
+     "role": "Designated Port",
+     "sent": {
+      "total": 971237,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 971237
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/4": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/5": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/6": {
+     "state": "FORWARDING",
+     "role": "Designated Port",
+     "sent": {
+      "total": 971409,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 971409
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/7": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/8": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/9": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/10": {
+     "state": "FORWARDING",
+     "role": "Designated Port",
+     "sent": {
+      "total": 971358,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 971358
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/11": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/12": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/13": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/14": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/15": {
+     "state": "FORWARDING",
+     "role": "Designated Port",
+     "sent": {
+      "total": 971298,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 971298
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/16": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/17": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/18": {
+     "state": "FORWARDING",
+     "role": "Designated Port",
+     "sent": {
+      "total": 2181857,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 2181857
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/19": {
+     "state": "FORWARDING",
+     "role": "Designated Port",
+     "sent": {
+      "total": 971268,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 971268
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/20": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/21": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/22": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/23": {
+     "state": "FORWARDING",
+     "role": "Designated Port (Boundary)",
+     "sent": {
+      "total": 185,
+      "tcn": 0,
+      "config": 184,
+      "rst": 0,
+      "mst": 1
+     },
+     "recv": {
+      "total": 18,
+      "tcn": 17,
+      "config": 1,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/24": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/25": {
+     "state": "FORWARDING",
+     "role": "Root Port (Boundary)",
+     "sent": {
+      "total": 2139633,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 2139633
+     },
+     "recv": {
+      "total": 45421,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 45421
+     }
+    },
+    "GigabitEthernet1/0/26": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/27": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    },
+    "GigabitEthernet1/0/28": {
+     "state": "DOWN",
+     "role": "Disabled Port",
+     "sent": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     },
+     "recv": {
+      "total": 0,
+      "tcn": 0,
+      "config": 0,
+      "rst": 0,
+      "mst": 0
+     }
+    }
+   }
+  }
+ },
+ "A1_native": {
+  "uptime": "7 weeks, 3 days, 19 hours, 11 minutes",
+  "stp_tc": {
+   "Bridge-Aggregation1": {
+    "receive": 0,
+    "send": 1791191
+   },
+   "GigabitEthernet1/0/1": {
+    "receive": 12,
+    "send": 1791194
+   },
+   "GigabitEthernet1/0/2": {
+    "receive": 12,
+    "send": 1791191
+   },
+   "GigabitEthernet1/0/3": {
+    "receive": 31,
+    "send": 1791184
+   },
+   "GigabitEthernet1/0/5": {
+    "receive": 1729649,
+    "send": 61
+   },
+   "GigabitEthernet1/0/7": {
+    "receive": 10,
+    "send": 1791192
+   }
+  },
+  "bpdu_stats": {
+   "GigabitEthernet1/0/5": {
+    "Invalid BPDUs": {
+     "count": 0,
+     "last": ""
+    },
+    "Looped-back BPDUs": {
+     "count": 0,
+     "last": ""
+    },
+    "Max-aged BPDUs": {
+     "count": 0,
+     "last": ""
+    },
+    "TCN sent": {
+     "count": 0,
+     "last": ""
+    },
+    "TCN received": {
+     "count": 0,
+     "last": ""
+    },
+    "TCA sent": {
+     "count": 3189,
+     "last": "10:00:22 11/02/2026"
+    },
+    "TCA received": {
+     "count": 55,
+     "last": "21:31:13 10/28/2026"
+    },
+    "Config sent": {
+     "count": 0,
+     "last": ""
+    },
+    "Config received": {
+     "count": 0,
+     "last": ""
+    },
+    "RST sent": {
+     "count": 0,
+     "last": ""
+    },
+    "RST received": {
+     "count": 0,
+     "last": ""
+    },
+    "MST sent": {
+     "count": 169301,
+     "last": "10:32:48 11/02/2026"
+    },
+    "MST received": {
+     "count": 2139656,
+     "last": "10:00:20 11/02/2026"
+    },
+    "Timeout BPDUs": {
+     "count": 0,
+     "last": ""
+    },
+    "Max-hoped BPDUs": {
+     "count": 0,
+     "last": ""
+    },
+    "TC detected": {
+     "count": 1,
+     "last": "08:01:01 01/01/2013"
+    },
+    "TC sent": {
+     "count": 61,
+     "last": "21:31:12 10/28/2026"
+    },
+    "TC received": {
+     "count": 1729649,
+     "last": "10:00:20 11/02/2026"
+    }
+   },
+   "GigabitEthernet1/0/3": {
+    "Invalid BPDUs": {
+     "count": 0,
+     "last": ""
+    },
+    "Looped-back BPDUs": {
+     "count": 0,
+     "last": ""
+    },
+    "Max-aged BPDUs": {
+     "count": 0,
+     "last": ""
+    },
+    "TCN sent": {
+     "count": 0,
+     "last": ""
+    },
+    "TCN received": {
+     "count": 0,
+     "last": ""
+    },
+    "TCA sent": {
+     "count": 30,
+     "last": "15:25:07 10/24/2026"
+    },
+    "TCA received": {
+     "count": 0,
+     "last": ""
+    },
+    "Config sent": {
+     "count": 0,
+     "last": ""
+    },
+    "Config received": {
+     "count": 0,
+     "last": ""
+    },
+    "RST sent": {
+     "count": 0,
+     "last": ""
+    },
+    "RST received": {
+     "count": 0,
+     "last": ""
+    },
+    "MST sent": {
+     "count": 2337288,
+     "last": "10:32:51 11/02/2026"
+    },
+    "MST received": {
+     "count": 32,
+     "last": "15:25:06 10/24/2026"
+    },
+    "Timeout BPDUs": {
+     "count": 0,
+     "last": ""
+    },
+    "Max-hoped BPDUs": {
+     "count": 0,
+     "last": ""
+    },
+    "TC detected": {
+     "count": 1,
+     "last": "08:01:01 01/01/2013"
+    },
+    "TC sent": {
+     "count": 1791184,
+     "last": "10:00:23 11/02/2026"
+    },
+    "TC received": {
+     "count": 31,
+     "last": "15:25:06 10/24/2026"
+    }
+   }
+  },
+  "global_tc": 1729714,
+  "last_tc_age_s": 1956,
+  "notified_tc_log": 246,
+  "notified_tc_ports": [
+   "GigabitEthernet1/0/5"
+  ]
+ },
+ "A2_native": {
+  "uptime": "7 weeks, 3 days, 19 hours, 12 minutes",
+  "stp_tc": {
+   "GigabitEthernet1/0/1": {
+    "receive": 0,
+    "send": 756001
+   },
+   "GigabitEthernet1/0/3": {
+    "receive": 0,
+    "send": 755923
+   },
+   "GigabitEthernet1/0/4": {
+    "receive": 0,
+    "send": 2
+   },
+   "GigabitEthernet1/0/6": {
+    "receive": 0,
+    "send": 756066
+   },
+   "GigabitEthernet1/0/10": {
+    "receive": 0,
+    "send": 756034
+   },
+   "GigabitEthernet1/0/15": {
+    "receive": 0,
+    "send": 755973
+   },
+   "GigabitEthernet1/0/18": {
+    "receive": 0,
+    "send": 1732590
+   },
+   "GigabitEthernet1/0/19": {
+    "receive": 0,
+    "send": 755951
+   },
+   "GigabitEthernet1/0/23": {
+    "receive": 36,
+    "send": 160
+   },
+   "GigabitEthernet1/0/25": {
+    "receive": 61,
+    "send": 1729649
+   }
+  },
+  "bpdu_stats": {
+   "GigabitEthernet1/0/23": {
+    "Invalid BPDUs": {
+     "count": 0,
+     "last": ""
+    },
+    "Looped-back BPDUs": {
+     "count": 0,
+     "last": ""
+    },
+    "Max-aged BPDUs": {
+     "count": 0,
+     "last": ""
+    },
+    "TCN sent": {
+     "count": 0,
+     "last": ""
+    },
+    "TCN received": {
+     "count": 36,
+     "last": "06:01:14 11/02/2026"
+    },
+    "TCA sent": {
+     "count": 22,
+     "last": "06:01:15 11/02/2026"
+    },
+    "TCA received": {
+     "count": 0,
+     "last": ""
+    },
+    "Config sent": {
+     "count": 122999,
+     "last": "10:33:09 11/02/2026"
+    },
+    "Config received": {
+     "count": 1,
+     "last": "14:13:13 10/30/2026"
+    },
+    "RST sent": {
+     "count": 0,
+     "last": ""
+    },
+    "RST received": {
+     "count": 0,
+     "last": ""
+    },
+    "MST sent": {
+     "count": 1,
+     "last": "14:13:11 10/30/2026"
+    },
+    "MST received": {
+     "count": 0,
+     "last": ""
+    },
+    "Timeout BPDUs": {
+     "count": 0,
+     "last": ""
+    },
+    "Max-hoped BPDUs": {
+     "count": 0,
+     "last": ""
+    },
+    "TC detected": {
+     "count": 1,
+     "last": "14:13:41 10/30/2026"
+    },
+    "TC sent": {
+     "count": 160,
+     "last": "10:00:55 11/02/2026"
+    },
+    "TC received": {
+     "count": 0,
+     "last": ""
+    }
+   },
+   "GigabitEthernet1/0/25": {
+    "Invalid BPDUs": {
+     "count": 0,
+     "last": ""
+    },
+    "Looped-back BPDUs": {
+     "count": 0,
+     "last": ""
+    },
+    "Max-aged BPDUs": {
+     "count": 0,
+     "last": ""
+    },
+    "TCN sent": {
+     "count": 0,
+     "last": ""
+    },
+    "TCN received": {
+     "count": 0,
+     "last": ""
+    },
+    "TCA sent": {
+     "count": 55,
+     "last": "14:10:48 02/18/2013"
+    },
+    "TCA received": {
+     "count": 3189,
+     "last": "10:00:22 11/02/2026"
+    },
+    "Config sent": {
+     "count": 0,
+     "last": ""
+    },
+    "Config received": {
+     "count": 0,
+     "last": ""
+    },
+    "RST sent": {
+     "count": 0,
+     "last": ""
+    },
+    "RST received": {
+     "count": 0,
+     "last": ""
+    },
+    "MST sent": {
+     "count": 2139657,
+     "last": "10:00:20 11/02/2026"
+    },
+    "MST received": {
+     "count": 169313,
+     "last": "10:33:12 11/02/2026"
+    },
+    "Timeout BPDUs": {
+     "count": 0,
+     "last": ""
+    },
+    "Max-hoped BPDUs": {
+     "count": 0,
+     "last": ""
+    },
+    "TC detected": {
+     "count": 1,
+     "last": "08:01:16 01/01/2013"
+    },
+    "TC sent": {
+     "count": 1729649,
+     "last": "10:00:20 11/02/2026"
+    },
+    "TC received": {
+     "count": 61,
+     "last": "14:10:46 02/18/2013"
+    }
+   }
+  },
+  "global_tc": 1712526,
+  "last_tc_age_s": 1978,
+  "notified_tc_log": 70,
+  "notified_tc_ports": [
+   "GigabitEthernet1/0/23"
+  ]
+ }
+}

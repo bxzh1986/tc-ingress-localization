@@ -1,0 +1,73 @@
+condition,device,rule,n,coverage,exact,wrong_unique,empty,mean_set_size,evidence_type
+C0 baseline,root A1-like,R0_native_tc,30,1.0,1.0,0.0,0.0,1.0,simulation
+C0 baseline,root A1-like,R1_strict,30,1.0,1.0,0.0,0.0,1.0,simulation
+C0 baseline,root A1-like,R2_positive,30,1.0,1.0,0.0,0.0,1.0,simulation
+C0 baseline,root A1-like,R3_largest_cum,30,0.1,0.1,0.9,0.0,1.0,simulation
+C0 baseline,root A1-like,R4_tolerance,30,1.0,1.0,0.0,0.0,1.0,simulation
+C0 baseline,root A1-like,R5_subset_sum,30,1.0,1.0,0.0,0.0,1.0,simulation
+C0 baseline,non-root A2-like,R0_native_tc,30,1.0,1.0,0.0,0.0,1.0,simulation
+C0 baseline,non-root A2-like,R1_strict,30,1.0,1.0,0.0,0.0,1.0,simulation
+C0 baseline,non-root A2-like,R2_positive,30,1.0,0.0,0.0,0.0,2.0,simulation
+C0 baseline,non-root A2-like,R3_largest_cum,30,0.167,0.167,0.833,0.0,1.0,simulation
+C0 baseline,non-root A2-like,R4_tolerance,30,1.0,1.0,0.0,0.0,1.0,simulation
+C0 baseline,non-root A2-like,R5_subset_sum,30,1.0,1.0,0.0,0.0,1.0,simulation
+C1 background on true ingress,root A1-like,R0_native_tc,30,1.0,1.0,0.0,0.0,1.0,simulation
+C1 background on true ingress,root A1-like,R1_strict,30,0.267,0.267,0.0,0.733,0.27,simulation
+C1 background on true ingress,root A1-like,R2_positive,30,1.0,1.0,0.0,0.0,1.0,simulation
+C1 background on true ingress,root A1-like,R3_largest_cum,30,0.267,0.267,0.733,0.0,1.0,simulation
+C1 background on true ingress,root A1-like,R4_tolerance,30,0.9,0.9,0.0,0.1,0.9,simulation
+C1 background on true ingress,root A1-like,R5_subset_sum,30,0.267,0.267,0.0,0.733,0.27,simulation
+C1 background on true ingress,non-root A2-like,R0_native_tc,30,1.0,1.0,0.0,0.0,1.0,simulation
+C1 background on true ingress,non-root A2-like,R1_strict,30,1.0,1.0,0.0,0.0,1.0,simulation
+C1 background on true ingress,non-root A2-like,R2_positive,30,1.0,0.0,0.0,0.0,2.0,simulation
+C1 background on true ingress,non-root A2-like,R3_largest_cum,30,0.033,0.033,0.967,0.0,1.0,simulation
+C1 background on true ingress,non-root A2-like,R4_tolerance,30,1.0,1.0,0.0,0.0,1.0,simulation
+C1 background on true ingress,non-root A2-like,R5_subset_sum,30,1.0,1.0,0.0,0.0,1.0,simulation
+C2 periodic background on another port,root A1-like,R0_native_tc,30,1.0,1.0,0.0,0.0,1.0,simulation
+C2 periodic background on another port,root A1-like,R1_strict,30,1.0,1.0,0.0,0.0,1.0,simulation
+C2 periodic background on another port,root A1-like,R2_positive,30,1.0,0.0,0.0,0.0,2.0,simulation
+C2 periodic background on another port,root A1-like,R3_largest_cum,30,0.2,0.2,0.8,0.0,1.0,simulation
+C2 periodic background on another port,root A1-like,R4_tolerance,30,1.0,1.0,0.0,0.0,1.0,simulation
+C2 periodic background on another port,root A1-like,R5_subset_sum,30,1.0,1.0,0.0,0.0,1.0,simulation
+C2 periodic background on another port,non-root A2-like,R0_native_tc,30,1.0,1.0,0.0,0.0,1.0,simulation
+C2 periodic background on another port,non-root A2-like,R1_strict,30,1.0,1.0,0.0,0.0,1.0,simulation
+C2 periodic background on another port,non-root A2-like,R2_positive,30,1.0,0.0,0.0,0.0,2.0,simulation
+C2 periodic background on another port,non-root A2-like,R3_largest_cum,30,0.1,0.1,0.9,0.0,1.0,simulation
+C2 periodic background on another port,non-root A2-like,R4_tolerance,30,1.0,1.0,0.0,0.0,1.0,simulation
+C2 periodic background on another port,non-root A2-like,R5_subset_sum,30,1.0,1.0,0.0,0.0,1.0,simulation
+C3 two ingresses,root A1-like,R0_native_tc,30,1.0,1.0,0.0,0.0,2.0,simulation
+C3 two ingresses,root A1-like,R1_strict,30,0.0,0.0,0.0,1.0,0.0,simulation
+C3 two ingresses,root A1-like,R2_positive,30,1.0,1.0,0.0,0.0,2.0,simulation
+C3 two ingresses,root A1-like,R3_largest_cum,30,0.0,0.0,1.0,0.0,1.0,simulation
+C3 two ingresses,root A1-like,R4_tolerance,30,0.0,0.0,0.0,1.0,0.0,simulation
+C3 two ingresses,root A1-like,R5_subset_sum,30,1.0,1.0,0.0,0.0,2.0,simulation
+C3 two ingresses,non-root A2-like,R0_native_tc,30,1.0,1.0,0.0,0.0,1.0,simulation
+C3 two ingresses,non-root A2-like,R1_strict,30,1.0,1.0,0.0,0.0,1.0,simulation
+C3 two ingresses,non-root A2-like,R2_positive,30,1.0,0.0,0.0,0.0,2.0,simulation
+C3 two ingresses,non-root A2-like,R3_largest_cum,30,0.067,0.067,0.933,0.0,1.0,simulation
+C3 two ingresses,non-root A2-like,R4_tolerance,30,1.0,1.0,0.0,0.0,1.0,simulation
+C3 two ingresses,non-root A2-like,R5_subset_sum,30,1.0,1.0,0.0,0.0,1.0,simulation
+C4 non-atomic readout (skew <= 1 s),root A1-like,R0_native_tc,30,1.0,1.0,0.0,0.0,1.0,simulation
+C4 non-atomic readout (skew <= 1 s),root A1-like,R1_strict,30,0.967,0.967,0.0,0.033,0.97,simulation
+C4 non-atomic readout (skew <= 1 s),root A1-like,R2_positive,30,1.0,1.0,0.0,0.0,1.0,simulation
+C4 non-atomic readout (skew <= 1 s),root A1-like,R3_largest_cum,30,0.233,0.233,0.767,0.0,1.0,simulation
+C4 non-atomic readout (skew <= 1 s),root A1-like,R4_tolerance,30,1.0,1.0,0.0,0.0,1.0,simulation
+C4 non-atomic readout (skew <= 1 s),root A1-like,R5_subset_sum,30,0.967,0.967,0.0,0.033,0.97,simulation
+C4 non-atomic readout (skew <= 1 s),non-root A2-like,R0_native_tc,30,1.0,1.0,0.0,0.0,1.0,simulation
+C4 non-atomic readout (skew <= 1 s),non-root A2-like,R1_strict,30,1.0,1.0,0.0,0.0,1.0,simulation
+C4 non-atomic readout (skew <= 1 s),non-root A2-like,R2_positive,30,1.0,0.0,0.0,0.0,2.0,simulation
+C4 non-atomic readout (skew <= 1 s),non-root A2-like,R3_largest_cum,30,0.067,0.067,0.933,0.0,1.0,simulation
+C4 non-atomic readout (skew <= 1 s),non-root A2-like,R4_tolerance,30,1.0,1.0,0.0,0.0,1.0,simulation
+C4 non-atomic readout (skew <= 1 s),non-root A2-like,R5_subset_sum,30,1.0,1.0,0.0,0.0,1.0,simulation
+C5 C1 + C2 + C4 combined,root A1-like,R0_native_tc,30,1.0,1.0,0.0,0.0,1.0,simulation
+C5 C1 + C2 + C4 combined,root A1-like,R1_strict,30,0.233,0.233,0.0,0.767,0.23,simulation
+C5 C1 + C2 + C4 combined,root A1-like,R2_positive,30,1.0,0.0,0.0,0.0,2.0,simulation
+C5 C1 + C2 + C4 combined,root A1-like,R3_largest_cum,30,0.233,0.233,0.767,0.0,1.0,simulation
+C5 C1 + C2 + C4 combined,root A1-like,R4_tolerance,30,0.933,0.933,0.0,0.067,0.93,simulation
+C5 C1 + C2 + C4 combined,root A1-like,R5_subset_sum,30,0.233,0.233,0.0,0.767,0.23,simulation
+C5 C1 + C2 + C4 combined,non-root A2-like,R0_native_tc,30,1.0,1.0,0.0,0.0,1.0,simulation
+C5 C1 + C2 + C4 combined,non-root A2-like,R1_strict,30,0.967,0.967,0.0,0.033,0.97,simulation
+C5 C1 + C2 + C4 combined,non-root A2-like,R2_positive,30,1.0,0.0,0.0,0.0,2.0,simulation
+C5 C1 + C2 + C4 combined,non-root A2-like,R3_largest_cum,30,0.1,0.1,0.9,0.0,1.0,simulation
+C5 C1 + C2 + C4 combined,non-root A2-like,R4_tolerance,30,1.0,1.0,0.0,0.0,1.0,simulation
+C5 C1 + C2 + C4 combined,non-root A2-like,R5_subset_sum,30,0.967,0.967,0.0,0.033,0.97,simulation

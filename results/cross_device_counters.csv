@@ -1,0 +1,5 @@
+snapshot,a1_checkpoint,A2_global_tc,A2_p23_rx_tcn,A2_p25_tx_mst,A1_p5_rx_mst,tx_minus_rx_A2toA1,A1_p5_tx_mst,A2_p25_rx_mst,rx_minus_tx_A1toA2,A1_global_tc,A1_last_tc_age_s,A2_last_tc_age_s,evidence_type
+ep0,7,1712421,3126,2139602,2139600,2,43741,43752,11,1729658,46,10,field_observation
+ep1,8,1712429,3134,2139610,2139608,2,43914,43925,11,1729666,15,0,field_observation
+fx0,13,1712490,17,2139633,2139632,1,45294,45304,10,1729690,43,64,field_observation
+fx1,14,1712490,17,2139633,2139632,1,45410,45421,11,1729690,277,297,field_observation
