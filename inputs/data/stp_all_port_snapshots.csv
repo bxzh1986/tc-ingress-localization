@@ -1,0 +1,379 @@
+checkpoint,source_file,cist_mode,root_id,global_tc_or_tcn_received,interface,port_id,state,role,protocol,bpdu_received,rx_tcn,rx_config,rx_rst,rx_mst,source_lf_line
+1,wagg_IP-1103.out,MSTP,4096.h-7efa89b11765,1729598,Bridge-Aggregation1,633,FORWARDING,Designated Port,Enabled,0,0,0,0,0,44
+1,wagg_IP-1103.out,MSTP,4096.h-7efa89b11765,1729598,GigabitEthernet1/0/1,1,FORWARDING,Designated Port (Boundary),Enabled,13,0,0,0,13,67
+1,wagg_IP-1103.out,MSTP,4096.h-7efa89b11765,1729598,GigabitEthernet1/0/2,2,FORWARDING,Designated Port (Boundary),Enabled,13,0,0,0,13,90
+1,wagg_IP-1103.out,MSTP,4096.h-7efa89b11765,1729598,GigabitEthernet1/0/3,3,FORWARDING,Designated Port (Boundary),Enabled,32,0,0,0,32,113
+1,wagg_IP-1103.out,MSTP,4096.h-7efa89b11765,1729598,GigabitEthernet1/0/4,4,DOWN,Disabled Port,Enabled,0,0,0,0,0,136
+1,wagg_IP-1103.out,MSTP,4096.h-7efa89b11765,1729598,GigabitEthernet1/0/5,5,FORWARDING,Designated Port (Boundary),Enabled,2139540,0,0,0,2139540,159
+1,wagg_IP-1103.out,MSTP,4096.h-7efa89b11765,1729598,GigabitEthernet1/0/6,6,DOWN,Disabled Port,Enabled,0,0,0,0,0,182
+1,wagg_IP-1103.out,MSTP,4096.h-7efa89b11765,1729598,GigabitEthernet1/0/7,7,FORWARDING,Designated Port (Boundary),Enabled,11,0,0,0,11,205
+1,wagg_IP-1103.out,MSTP,4096.h-7efa89b11765,1729598,GigabitEthernet1/0/8,8,DOWN,Disabled Port,Enabled,0,0,0,0,0,228
+1,wagg_IP-1103.out,MSTP,4096.h-7efa89b11765,1729598,GigabitEthernet1/0/9,9,DOWN,Disabled Port,Enabled,0,0,0,0,0,251
+1,wagg_IP-1103.out,MSTP,4096.h-7efa89b11765,1729598,GigabitEthernet1/0/10,10,DOWN,Disabled Port,Enabled,0,0,0,0,0,274
+1,wagg_IP-1103.out,MSTP,4096.h-7efa89b11765,1729598,GigabitEthernet1/0/11,11,DOWN,Disabled Port,Enabled,0,0,0,0,0,297
+1,wagg_IP-1103.out,MSTP,4096.h-7efa89b11765,1729598,GigabitEthernet1/0/12,12,DOWN,Disabled Port,Enabled,0,0,0,0,0,320
+1,wagg_IP-1103.out,MSTP,4096.h-7efa89b11765,1729598,GigabitEthernet1/0/13,13,DOWN,Disabled Port,Enabled,0,0,0,0,0,343
+1,wagg_IP-1103.out,MSTP,4096.h-7efa89b11765,1729598,GigabitEthernet1/0/14,14,DOWN,Disabled Port,Enabled,0,0,0,0,0,366
+1,wagg_IP-1103.out,MSTP,4096.h-7efa89b11765,1729598,GigabitEthernet1/0/15,15,DOWN,Disabled Port,Enabled,0,0,0,0,0,389
+1,wagg_IP-1103.out,MSTP,4096.h-7efa89b11765,1729598,GigabitEthernet1/0/16,16,DOWN,Disabled Port,Enabled,0,0,0,0,0,412
+1,wagg_IP-1103.out,MSTP,4096.h-7efa89b11765,1729598,GigabitEthernet1/0/17,17,DOWN,Disabled Port,Enabled,0,0,0,0,0,435
+1,wagg_IP-1103.out,MSTP,4096.h-7efa89b11765,1729598,GigabitEthernet1/0/18,18,DOWN,Disabled Port,Enabled,0,0,0,0,0,458
+1,wagg_IP-1103.out,MSTP,4096.h-7efa89b11765,1729598,GigabitEthernet1/0/19,19,DOWN,Disabled Port,Enabled,0,0,0,0,0,481
+1,wagg_IP-1103.out,MSTP,4096.h-7efa89b11765,1729598,GigabitEthernet1/0/20,20,DOWN,Disabled Port,Enabled,0,0,0,0,0,504
+1,wagg_IP-1103.out,MSTP,4096.h-7efa89b11765,1729598,GigabitEthernet1/0/21,21,DOWN,Disabled Port,Enabled,0,0,0,0,0,527
+1,wagg_IP-1103.out,MSTP,4096.h-7efa89b11765,1729598,GigabitEthernet1/0/22,22,DOWN,Disabled Port,Enabled,0,0,0,0,0,550
+1,wagg_IP-1103.out,MSTP,4096.h-7efa89b11765,1729598,GigabitEthernet1/0/23,23,DOWN,Disabled Port,Enabled,0,0,0,0,0,573
+1,wagg_IP-1103.out,MSTP,4096.h-7efa89b11765,1729598,GigabitEthernet1/0/24,24,DOWN,Disabled Port,Enabled,0,0,0,0,0,596
+1,wagg_IP-1103.out,MSTP,4096.h-7efa89b11765,1729598,Ten-GigabitEthernet1/0/27,27,DOWN,Disabled Port,Enabled,0,0,0,0,0,619
+1,wagg_IP-1103.out,MSTP,4096.h-7efa89b11765,1729598,Ten-GigabitEthernet1/0/28,28,DOWN,Disabled Port,Enabled,0,0,0,0,0,642
+2,c1_agg.out,MSTP,4096.h-7efa89b11765,1729601,Bridge-Aggregation1,633,FORWARDING,Designated Port,Enabled,0,0,0,0,0,44
+2,c1_agg.out,MSTP,4096.h-7efa89b11765,1729601,GigabitEthernet1/0/1,1,FORWARDING,Designated Port (Boundary),Enabled,13,0,0,0,13,67
+2,c1_agg.out,MSTP,4096.h-7efa89b11765,1729601,GigabitEthernet1/0/2,2,FORWARDING,Designated Port (Boundary),Enabled,13,0,0,0,13,90
+2,c1_agg.out,MSTP,4096.h-7efa89b11765,1729601,GigabitEthernet1/0/3,3,FORWARDING,Designated Port (Boundary),Enabled,32,0,0,0,32,113
+2,c1_agg.out,MSTP,4096.h-7efa89b11765,1729601,GigabitEthernet1/0/4,4,DOWN,Disabled Port,Enabled,0,0,0,0,0,136
+2,c1_agg.out,MSTP,4096.h-7efa89b11765,1729601,GigabitEthernet1/0/5,5,FORWARDING,Designated Port (Boundary),Enabled,2139543,0,0,0,2139543,159
+2,c1_agg.out,MSTP,4096.h-7efa89b11765,1729601,GigabitEthernet1/0/6,6,DOWN,Disabled Port,Enabled,0,0,0,0,0,182
+2,c1_agg.out,MSTP,4096.h-7efa89b11765,1729601,GigabitEthernet1/0/7,7,FORWARDING,Designated Port (Boundary),Enabled,11,0,0,0,11,205
+2,c1_agg.out,MSTP,4096.h-7efa89b11765,1729601,GigabitEthernet1/0/8,8,DOWN,Disabled Port,Enabled,0,0,0,0,0,228
+2,c1_agg.out,MSTP,4096.h-7efa89b11765,1729601,GigabitEthernet1/0/9,9,DOWN,Disabled Port,Enabled,0,0,0,0,0,251
+2,c1_agg.out,MSTP,4096.h-7efa89b11765,1729601,GigabitEthernet1/0/10,10,DOWN,Disabled Port,Enabled,0,0,0,0,0,274
+2,c1_agg.out,MSTP,4096.h-7efa89b11765,1729601,GigabitEthernet1/0/11,11,DOWN,Disabled Port,Enabled,0,0,0,0,0,297
+2,c1_agg.out,MSTP,4096.h-7efa89b11765,1729601,GigabitEthernet1/0/12,12,DOWN,Disabled Port,Enabled,0,0,0,0,0,320
+2,c1_agg.out,MSTP,4096.h-7efa89b11765,1729601,GigabitEthernet1/0/13,13,DOWN,Disabled Port,Enabled,0,0,0,0,0,343
+2,c1_agg.out,MSTP,4096.h-7efa89b11765,1729601,GigabitEthernet1/0/14,14,DOWN,Disabled Port,Enabled,0,0,0,0,0,366
+2,c1_agg.out,MSTP,4096.h-7efa89b11765,1729601,GigabitEthernet1/0/15,15,DOWN,Disabled Port,Enabled,0,0,0,0,0,389
+2,c1_agg.out,MSTP,4096.h-7efa89b11765,1729601,GigabitEthernet1/0/16,16,DOWN,Disabled Port,Enabled,0,0,0,0,0,412
+2,c1_agg.out,MSTP,4096.h-7efa89b11765,1729601,GigabitEthernet1/0/17,17,DOWN,Disabled Port,Enabled,0,0,0,0,0,435
+2,c1_agg.out,MSTP,4096.h-7efa89b11765,1729601,GigabitEthernet1/0/18,18,DOWN,Disabled Port,Enabled,0,0,0,0,0,458
+2,c1_agg.out,MSTP,4096.h-7efa89b11765,1729601,GigabitEthernet1/0/19,19,DOWN,Disabled Port,Enabled,0,0,0,0,0,481
+2,c1_agg.out,MSTP,4096.h-7efa89b11765,1729601,GigabitEthernet1/0/20,20,DOWN,Disabled Port,Enabled,0,0,0,0,0,504
+2,c1_agg.out,MSTP,4096.h-7efa89b11765,1729601,GigabitEthernet1/0/21,21,DOWN,Disabled Port,Enabled,0,0,0,0,0,527
+2,c1_agg.out,MSTP,4096.h-7efa89b11765,1729601,GigabitEthernet1/0/22,22,DOWN,Disabled Port,Enabled,0,0,0,0,0,550
+2,c1_agg.out,MSTP,4096.h-7efa89b11765,1729601,GigabitEthernet1/0/23,23,DOWN,Disabled Port,Enabled,0,0,0,0,0,573
+2,c1_agg.out,MSTP,4096.h-7efa89b11765,1729601,GigabitEthernet1/0/24,24,DOWN,Disabled Port,Enabled,0,0,0,0,0,596
+2,c1_agg.out,MSTP,4096.h-7efa89b11765,1729601,Ten-GigabitEthernet1/0/27,27,DOWN,Disabled Port,Enabled,0,0,0,0,0,619
+2,c1_agg.out,MSTP,4096.h-7efa89b11765,1729601,Ten-GigabitEthernet1/0/28,28,DOWN,Disabled Port,Enabled,0,0,0,0,0,642
+3,base_IP-1103.out,MSTP,4096.h-7efa89b11765,1729642,Bridge-Aggregation1,633,FORWARDING,Designated Port,Enabled,0,0,0,0,0,44
+3,base_IP-1103.out,MSTP,4096.h-7efa89b11765,1729642,GigabitEthernet1/0/1,1,FORWARDING,Designated Port (Boundary),Enabled,13,0,0,0,13,67
+3,base_IP-1103.out,MSTP,4096.h-7efa89b11765,1729642,GigabitEthernet1/0/2,2,FORWARDING,Designated Port (Boundary),Enabled,13,0,0,0,13,90
+3,base_IP-1103.out,MSTP,4096.h-7efa89b11765,1729642,GigabitEthernet1/0/3,3,FORWARDING,Designated Port (Boundary),Enabled,32,0,0,0,32,113
+3,base_IP-1103.out,MSTP,4096.h-7efa89b11765,1729642,GigabitEthernet1/0/4,4,DOWN,Disabled Port,Enabled,0,0,0,0,0,136
+3,base_IP-1103.out,MSTP,4096.h-7efa89b11765,1729642,GigabitEthernet1/0/5,5,FORWARDING,Designated Port (Boundary),Enabled,2139584,0,0,0,2139584,159
+3,base_IP-1103.out,MSTP,4096.h-7efa89b11765,1729642,GigabitEthernet1/0/6,6,DOWN,Disabled Port,Enabled,0,0,0,0,0,182
+3,base_IP-1103.out,MSTP,4096.h-7efa89b11765,1729642,GigabitEthernet1/0/7,7,FORWARDING,Designated Port (Boundary),Enabled,11,0,0,0,11,205
+3,base_IP-1103.out,MSTP,4096.h-7efa89b11765,1729642,GigabitEthernet1/0/8,8,DOWN,Disabled Port,Enabled,0,0,0,0,0,228
+3,base_IP-1103.out,MSTP,4096.h-7efa89b11765,1729642,GigabitEthernet1/0/9,9,DOWN,Disabled Port,Enabled,0,0,0,0,0,251
+3,base_IP-1103.out,MSTP,4096.h-7efa89b11765,1729642,GigabitEthernet1/0/10,10,DOWN,Disabled Port,Enabled,0,0,0,0,0,274
+3,base_IP-1103.out,MSTP,4096.h-7efa89b11765,1729642,GigabitEthernet1/0/11,11,DOWN,Disabled Port,Enabled,0,0,0,0,0,297
+3,base_IP-1103.out,MSTP,4096.h-7efa89b11765,1729642,GigabitEthernet1/0/12,12,DOWN,Disabled Port,Enabled,0,0,0,0,0,320
+3,base_IP-1103.out,MSTP,4096.h-7efa89b11765,1729642,GigabitEthernet1/0/13,13,DOWN,Disabled Port,Enabled,0,0,0,0,0,343
+3,base_IP-1103.out,MSTP,4096.h-7efa89b11765,1729642,GigabitEthernet1/0/14,14,DOWN,Disabled Port,Enabled,0,0,0,0,0,366
+3,base_IP-1103.out,MSTP,4096.h-7efa89b11765,1729642,GigabitEthernet1/0/15,15,DOWN,Disabled Port,Enabled,0,0,0,0,0,389
+3,base_IP-1103.out,MSTP,4096.h-7efa89b11765,1729642,GigabitEthernet1/0/16,16,DOWN,Disabled Port,Enabled,0,0,0,0,0,412
+3,base_IP-1103.out,MSTP,4096.h-7efa89b11765,1729642,GigabitEthernet1/0/17,17,DOWN,Disabled Port,Enabled,0,0,0,0,0,435
+3,base_IP-1103.out,MSTP,4096.h-7efa89b11765,1729642,GigabitEthernet1/0/18,18,DOWN,Disabled Port,Enabled,0,0,0,0,0,458
+3,base_IP-1103.out,MSTP,4096.h-7efa89b11765,1729642,GigabitEthernet1/0/19,19,DOWN,Disabled Port,Enabled,0,0,0,0,0,481
+3,base_IP-1103.out,MSTP,4096.h-7efa89b11765,1729642,GigabitEthernet1/0/20,20,DOWN,Disabled Port,Enabled,0,0,0,0,0,504
+3,base_IP-1103.out,MSTP,4096.h-7efa89b11765,1729642,GigabitEthernet1/0/21,21,DOWN,Disabled Port,Enabled,0,0,0,0,0,527
+3,base_IP-1103.out,MSTP,4096.h-7efa89b11765,1729642,GigabitEthernet1/0/22,22,DOWN,Disabled Port,Enabled,0,0,0,0,0,550
+3,base_IP-1103.out,MSTP,4096.h-7efa89b11765,1729642,GigabitEthernet1/0/23,23,DOWN,Disabled Port,Enabled,0,0,0,0,0,573
+3,base_IP-1103.out,MSTP,4096.h-7efa89b11765,1729642,GigabitEthernet1/0/24,24,DOWN,Disabled Port,Enabled,0,0,0,0,0,596
+3,base_IP-1103.out,MSTP,4096.h-7efa89b11765,1729642,Ten-GigabitEthernet1/0/27,27,DOWN,Disabled Port,Enabled,0,0,0,0,0,619
+3,base_IP-1103.out,MSTP,4096.h-7efa89b11765,1729642,Ten-GigabitEthernet1/0/28,28,DOWN,Disabled Port,Enabled,0,0,0,0,0,642
+4,obs1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729647,Bridge-Aggregation1,633,FORWARDING,Designated Port,Enabled,0,0,0,0,0,44
+4,obs1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729647,GigabitEthernet1/0/1,1,FORWARDING,Designated Port (Boundary),Enabled,13,0,0,0,13,67
+4,obs1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729647,GigabitEthernet1/0/2,2,FORWARDING,Designated Port (Boundary),Enabled,13,0,0,0,13,90
+4,obs1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729647,GigabitEthernet1/0/3,3,FORWARDING,Designated Port (Boundary),Enabled,32,0,0,0,32,113
+4,obs1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729647,GigabitEthernet1/0/4,4,DOWN,Disabled Port,Enabled,0,0,0,0,0,136
+4,obs1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729647,GigabitEthernet1/0/5,5,FORWARDING,Designated Port (Boundary),Enabled,2139589,0,0,0,2139589,159
+4,obs1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729647,GigabitEthernet1/0/6,6,DOWN,Disabled Port,Enabled,0,0,0,0,0,182
+4,obs1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729647,GigabitEthernet1/0/7,7,FORWARDING,Designated Port (Boundary),Enabled,11,0,0,0,11,205
+4,obs1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729647,GigabitEthernet1/0/8,8,DOWN,Disabled Port,Enabled,0,0,0,0,0,228
+4,obs1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729647,GigabitEthernet1/0/9,9,DOWN,Disabled Port,Enabled,0,0,0,0,0,251
+4,obs1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729647,GigabitEthernet1/0/10,10,DOWN,Disabled Port,Enabled,0,0,0,0,0,274
+4,obs1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729647,GigabitEthernet1/0/11,11,DOWN,Disabled Port,Enabled,0,0,0,0,0,297
+4,obs1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729647,GigabitEthernet1/0/12,12,DOWN,Disabled Port,Enabled,0,0,0,0,0,320
+4,obs1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729647,GigabitEthernet1/0/13,13,DOWN,Disabled Port,Enabled,0,0,0,0,0,343
+4,obs1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729647,GigabitEthernet1/0/14,14,DOWN,Disabled Port,Enabled,0,0,0,0,0,366
+4,obs1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729647,GigabitEthernet1/0/15,15,DOWN,Disabled Port,Enabled,0,0,0,0,0,389
+4,obs1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729647,GigabitEthernet1/0/16,16,DOWN,Disabled Port,Enabled,0,0,0,0,0,412
+4,obs1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729647,GigabitEthernet1/0/17,17,DOWN,Disabled Port,Enabled,0,0,0,0,0,435
+4,obs1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729647,GigabitEthernet1/0/18,18,DOWN,Disabled Port,Enabled,0,0,0,0,0,458
+4,obs1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729647,GigabitEthernet1/0/19,19,DOWN,Disabled Port,Enabled,0,0,0,0,0,481
+4,obs1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729647,GigabitEthernet1/0/20,20,DOWN,Disabled Port,Enabled,0,0,0,0,0,504
+4,obs1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729647,GigabitEthernet1/0/21,21,DOWN,Disabled Port,Enabled,0,0,0,0,0,527
+4,obs1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729647,GigabitEthernet1/0/22,22,DOWN,Disabled Port,Enabled,0,0,0,0,0,550
+4,obs1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729647,GigabitEthernet1/0/23,23,DOWN,Disabled Port,Enabled,0,0,0,0,0,573
+4,obs1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729647,GigabitEthernet1/0/24,24,DOWN,Disabled Port,Enabled,0,0,0,0,0,596
+4,obs1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729647,Ten-GigabitEthernet1/0/27,27,DOWN,Disabled Port,Enabled,0,0,0,0,0,619
+4,obs1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729647,Ten-GigabitEthernet1/0/28,28,DOWN,Disabled Port,Enabled,0,0,0,0,0,642
+5,t0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729649,Bridge-Aggregation1,633,FORWARDING,Designated Port,Enabled,0,0,0,0,0,44
+5,t0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729649,GigabitEthernet1/0/1,1,FORWARDING,Designated Port (Boundary),Enabled,13,0,0,0,13,67
+5,t0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729649,GigabitEthernet1/0/2,2,FORWARDING,Designated Port (Boundary),Enabled,13,0,0,0,13,90
+5,t0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729649,GigabitEthernet1/0/3,3,FORWARDING,Designated Port (Boundary),Enabled,32,0,0,0,32,113
+5,t0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729649,GigabitEthernet1/0/4,4,DOWN,Disabled Port,Enabled,0,0,0,0,0,136
+5,t0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729649,GigabitEthernet1/0/5,5,FORWARDING,Designated Port (Boundary),Enabled,2139591,0,0,0,2139591,159
+5,t0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729649,GigabitEthernet1/0/6,6,DOWN,Disabled Port,Enabled,0,0,0,0,0,182
+5,t0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729649,GigabitEthernet1/0/7,7,FORWARDING,Designated Port (Boundary),Enabled,11,0,0,0,11,205
+5,t0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729649,GigabitEthernet1/0/8,8,DOWN,Disabled Port,Enabled,0,0,0,0,0,228
+5,t0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729649,GigabitEthernet1/0/9,9,DOWN,Disabled Port,Enabled,0,0,0,0,0,251
+5,t0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729649,GigabitEthernet1/0/10,10,DOWN,Disabled Port,Enabled,0,0,0,0,0,274
+5,t0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729649,GigabitEthernet1/0/11,11,DOWN,Disabled Port,Enabled,0,0,0,0,0,297
+5,t0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729649,GigabitEthernet1/0/12,12,DOWN,Disabled Port,Enabled,0,0,0,0,0,320
+5,t0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729649,GigabitEthernet1/0/13,13,DOWN,Disabled Port,Enabled,0,0,0,0,0,343
+5,t0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729649,GigabitEthernet1/0/14,14,DOWN,Disabled Port,Enabled,0,0,0,0,0,366
+5,t0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729649,GigabitEthernet1/0/15,15,DOWN,Disabled Port,Enabled,0,0,0,0,0,389
+5,t0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729649,GigabitEthernet1/0/16,16,DOWN,Disabled Port,Enabled,0,0,0,0,0,412
+5,t0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729649,GigabitEthernet1/0/17,17,DOWN,Disabled Port,Enabled,0,0,0,0,0,435
+5,t0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729649,GigabitEthernet1/0/18,18,DOWN,Disabled Port,Enabled,0,0,0,0,0,458
+5,t0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729649,GigabitEthernet1/0/19,19,DOWN,Disabled Port,Enabled,0,0,0,0,0,481
+5,t0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729649,GigabitEthernet1/0/20,20,DOWN,Disabled Port,Enabled,0,0,0,0,0,504
+5,t0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729649,GigabitEthernet1/0/21,21,DOWN,Disabled Port,Enabled,0,0,0,0,0,527
+5,t0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729649,GigabitEthernet1/0/22,22,DOWN,Disabled Port,Enabled,0,0,0,0,0,550
+5,t0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729649,GigabitEthernet1/0/23,23,DOWN,Disabled Port,Enabled,0,0,0,0,0,573
+5,t0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729649,GigabitEthernet1/0/24,24,DOWN,Disabled Port,Enabled,0,0,0,0,0,596
+5,t0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729649,Ten-GigabitEthernet1/0/27,27,DOWN,Disabled Port,Enabled,0,0,0,0,0,619
+5,t0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729649,Ten-GigabitEthernet1/0/28,28,DOWN,Disabled Port,Enabled,0,0,0,0,0,642
+6,t1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729653,Bridge-Aggregation1,633,FORWARDING,Designated Port,Enabled,0,0,0,0,0,44
+6,t1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729653,GigabitEthernet1/0/1,1,FORWARDING,Designated Port (Boundary),Enabled,13,0,0,0,13,67
+6,t1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729653,GigabitEthernet1/0/2,2,FORWARDING,Designated Port (Boundary),Enabled,13,0,0,0,13,90
+6,t1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729653,GigabitEthernet1/0/3,3,FORWARDING,Designated Port (Boundary),Enabled,32,0,0,0,32,113
+6,t1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729653,GigabitEthernet1/0/4,4,DOWN,Disabled Port,Enabled,0,0,0,0,0,136
+6,t1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729653,GigabitEthernet1/0/5,5,FORWARDING,Designated Port (Boundary),Enabled,2139595,0,0,0,2139595,159
+6,t1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729653,GigabitEthernet1/0/6,6,DOWN,Disabled Port,Enabled,0,0,0,0,0,182
+6,t1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729653,GigabitEthernet1/0/7,7,FORWARDING,Designated Port (Boundary),Enabled,11,0,0,0,11,205
+6,t1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729653,GigabitEthernet1/0/8,8,DOWN,Disabled Port,Enabled,0,0,0,0,0,228
+6,t1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729653,GigabitEthernet1/0/9,9,DOWN,Disabled Port,Enabled,0,0,0,0,0,251
+6,t1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729653,GigabitEthernet1/0/10,10,DOWN,Disabled Port,Enabled,0,0,0,0,0,274
+6,t1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729653,GigabitEthernet1/0/11,11,DOWN,Disabled Port,Enabled,0,0,0,0,0,297
+6,t1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729653,GigabitEthernet1/0/12,12,DOWN,Disabled Port,Enabled,0,0,0,0,0,320
+6,t1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729653,GigabitEthernet1/0/13,13,DOWN,Disabled Port,Enabled,0,0,0,0,0,343
+6,t1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729653,GigabitEthernet1/0/14,14,DOWN,Disabled Port,Enabled,0,0,0,0,0,366
+6,t1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729653,GigabitEthernet1/0/15,15,DOWN,Disabled Port,Enabled,0,0,0,0,0,389
+6,t1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729653,GigabitEthernet1/0/16,16,DOWN,Disabled Port,Enabled,0,0,0,0,0,412
+6,t1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729653,GigabitEthernet1/0/17,17,DOWN,Disabled Port,Enabled,0,0,0,0,0,435
+6,t1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729653,GigabitEthernet1/0/18,18,DOWN,Disabled Port,Enabled,0,0,0,0,0,458
+6,t1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729653,GigabitEthernet1/0/19,19,DOWN,Disabled Port,Enabled,0,0,0,0,0,481
+6,t1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729653,GigabitEthernet1/0/20,20,DOWN,Disabled Port,Enabled,0,0,0,0,0,504
+6,t1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729653,GigabitEthernet1/0/21,21,DOWN,Disabled Port,Enabled,0,0,0,0,0,527
+6,t1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729653,GigabitEthernet1/0/22,22,DOWN,Disabled Port,Enabled,0,0,0,0,0,550
+6,t1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729653,GigabitEthernet1/0/23,23,DOWN,Disabled Port,Enabled,0,0,0,0,0,573
+6,t1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729653,GigabitEthernet1/0/24,24,DOWN,Disabled Port,Enabled,0,0,0,0,0,596
+6,t1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729653,Ten-GigabitEthernet1/0/27,27,DOWN,Disabled Port,Enabled,0,0,0,0,0,619
+6,t1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729653,Ten-GigabitEthernet1/0/28,28,DOWN,Disabled Port,Enabled,0,0,0,0,0,642
+7,ep0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729658,Bridge-Aggregation1,633,FORWARDING,Designated Port,Enabled,0,0,0,0,0,44
+7,ep0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729658,GigabitEthernet1/0/1,1,FORWARDING,Designated Port (Boundary),Enabled,13,0,0,0,13,67
+7,ep0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729658,GigabitEthernet1/0/2,2,FORWARDING,Designated Port (Boundary),Enabled,13,0,0,0,13,90
+7,ep0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729658,GigabitEthernet1/0/3,3,FORWARDING,Designated Port (Boundary),Enabled,32,0,0,0,32,113
+7,ep0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729658,GigabitEthernet1/0/4,4,DOWN,Disabled Port,Enabled,0,0,0,0,0,136
+7,ep0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729658,GigabitEthernet1/0/5,5,FORWARDING,Designated Port (Boundary),Enabled,2139600,0,0,0,2139600,159
+7,ep0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729658,GigabitEthernet1/0/6,6,DOWN,Disabled Port,Enabled,0,0,0,0,0,182
+7,ep0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729658,GigabitEthernet1/0/7,7,FORWARDING,Designated Port (Boundary),Enabled,11,0,0,0,11,205
+7,ep0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729658,GigabitEthernet1/0/8,8,DOWN,Disabled Port,Enabled,0,0,0,0,0,228
+7,ep0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729658,GigabitEthernet1/0/9,9,DOWN,Disabled Port,Enabled,0,0,0,0,0,251
+7,ep0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729658,GigabitEthernet1/0/10,10,DOWN,Disabled Port,Enabled,0,0,0,0,0,274
+7,ep0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729658,GigabitEthernet1/0/11,11,DOWN,Disabled Port,Enabled,0,0,0,0,0,297
+7,ep0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729658,GigabitEthernet1/0/12,12,DOWN,Disabled Port,Enabled,0,0,0,0,0,320
+7,ep0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729658,GigabitEthernet1/0/13,13,DOWN,Disabled Port,Enabled,0,0,0,0,0,343
+7,ep0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729658,GigabitEthernet1/0/14,14,DOWN,Disabled Port,Enabled,0,0,0,0,0,366
+7,ep0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729658,GigabitEthernet1/0/15,15,DOWN,Disabled Port,Enabled,0,0,0,0,0,389
+7,ep0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729658,GigabitEthernet1/0/16,16,DOWN,Disabled Port,Enabled,0,0,0,0,0,412
+7,ep0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729658,GigabitEthernet1/0/17,17,DOWN,Disabled Port,Enabled,0,0,0,0,0,435
+7,ep0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729658,GigabitEthernet1/0/18,18,DOWN,Disabled Port,Enabled,0,0,0,0,0,458
+7,ep0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729658,GigabitEthernet1/0/19,19,DOWN,Disabled Port,Enabled,0,0,0,0,0,481
+7,ep0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729658,GigabitEthernet1/0/20,20,DOWN,Disabled Port,Enabled,0,0,0,0,0,504
+7,ep0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729658,GigabitEthernet1/0/21,21,DOWN,Disabled Port,Enabled,0,0,0,0,0,527
+7,ep0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729658,GigabitEthernet1/0/22,22,DOWN,Disabled Port,Enabled,0,0,0,0,0,550
+7,ep0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729658,GigabitEthernet1/0/23,23,DOWN,Disabled Port,Enabled,0,0,0,0,0,573
+7,ep0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729658,GigabitEthernet1/0/24,24,DOWN,Disabled Port,Enabled,0,0,0,0,0,596
+7,ep0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729658,Ten-GigabitEthernet1/0/27,27,DOWN,Disabled Port,Enabled,0,0,0,0,0,619
+7,ep0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729658,Ten-GigabitEthernet1/0/28,28,DOWN,Disabled Port,Enabled,0,0,0,0,0,642
+8,ep1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729666,Bridge-Aggregation1,633,FORWARDING,Designated Port,Enabled,0,0,0,0,0,44
+8,ep1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729666,GigabitEthernet1/0/1,1,FORWARDING,Designated Port (Boundary),Enabled,13,0,0,0,13,67
+8,ep1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729666,GigabitEthernet1/0/2,2,FORWARDING,Designated Port (Boundary),Enabled,13,0,0,0,13,90
+8,ep1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729666,GigabitEthernet1/0/3,3,FORWARDING,Designated Port (Boundary),Enabled,32,0,0,0,32,113
+8,ep1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729666,GigabitEthernet1/0/4,4,DOWN,Disabled Port,Enabled,0,0,0,0,0,136
+8,ep1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729666,GigabitEthernet1/0/5,5,FORWARDING,Designated Port (Boundary),Enabled,2139608,0,0,0,2139608,159
+8,ep1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729666,GigabitEthernet1/0/6,6,DOWN,Disabled Port,Enabled,0,0,0,0,0,182
+8,ep1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729666,GigabitEthernet1/0/7,7,FORWARDING,Designated Port (Boundary),Enabled,11,0,0,0,11,205
+8,ep1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729666,GigabitEthernet1/0/8,8,DOWN,Disabled Port,Enabled,0,0,0,0,0,228
+8,ep1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729666,GigabitEthernet1/0/9,9,DOWN,Disabled Port,Enabled,0,0,0,0,0,251
+8,ep1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729666,GigabitEthernet1/0/10,10,DOWN,Disabled Port,Enabled,0,0,0,0,0,274
+8,ep1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729666,GigabitEthernet1/0/11,11,DOWN,Disabled Port,Enabled,0,0,0,0,0,297
+8,ep1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729666,GigabitEthernet1/0/12,12,DOWN,Disabled Port,Enabled,0,0,0,0,0,320
+8,ep1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729666,GigabitEthernet1/0/13,13,DOWN,Disabled Port,Enabled,0,0,0,0,0,343
+8,ep1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729666,GigabitEthernet1/0/14,14,DOWN,Disabled Port,Enabled,0,0,0,0,0,366
+8,ep1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729666,GigabitEthernet1/0/15,15,DOWN,Disabled Port,Enabled,0,0,0,0,0,389
+8,ep1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729666,GigabitEthernet1/0/16,16,DOWN,Disabled Port,Enabled,0,0,0,0,0,412
+8,ep1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729666,GigabitEthernet1/0/17,17,DOWN,Disabled Port,Enabled,0,0,0,0,0,435
+8,ep1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729666,GigabitEthernet1/0/18,18,DOWN,Disabled Port,Enabled,0,0,0,0,0,458
+8,ep1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729666,GigabitEthernet1/0/19,19,DOWN,Disabled Port,Enabled,0,0,0,0,0,481
+8,ep1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729666,GigabitEthernet1/0/20,20,DOWN,Disabled Port,Enabled,0,0,0,0,0,504
+8,ep1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729666,GigabitEthernet1/0/21,21,DOWN,Disabled Port,Enabled,0,0,0,0,0,527
+8,ep1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729666,GigabitEthernet1/0/22,22,DOWN,Disabled Port,Enabled,0,0,0,0,0,550
+8,ep1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729666,GigabitEthernet1/0/23,23,DOWN,Disabled Port,Enabled,0,0,0,0,0,573
+8,ep1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729666,GigabitEthernet1/0/24,24,DOWN,Disabled Port,Enabled,0,0,0,0,0,596
+8,ep1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729666,Ten-GigabitEthernet1/0/27,27,DOWN,Disabled Port,Enabled,0,0,0,0,0,619
+8,ep1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729666,Ten-GigabitEthernet1/0/28,28,DOWN,Disabled Port,Enabled,0,0,0,0,0,642
+9,sd0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,Bridge-Aggregation1,633,FORWARDING,Designated Port,Enabled,0,0,0,0,0,44
+9,sd0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/1,1,FORWARDING,Designated Port (Boundary),Enabled,13,0,0,0,13,67
+9,sd0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/2,2,FORWARDING,Designated Port (Boundary),Enabled,13,0,0,0,13,90
+9,sd0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/3,3,FORWARDING,Designated Port (Boundary),Enabled,32,0,0,0,32,113
+9,sd0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/4,4,DOWN,Disabled Port,Enabled,0,0,0,0,0,136
+9,sd0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/5,5,FORWARDING,Designated Port (Boundary),Enabled,2139624,0,0,0,2139624,159
+9,sd0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/6,6,DOWN,Disabled Port,Enabled,0,0,0,0,0,182
+9,sd0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/7,7,FORWARDING,Designated Port (Boundary),Enabled,11,0,0,0,11,205
+9,sd0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/8,8,DOWN,Disabled Port,Enabled,0,0,0,0,0,228
+9,sd0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/9,9,DOWN,Disabled Port,Enabled,0,0,0,0,0,251
+9,sd0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/10,10,DOWN,Disabled Port,Enabled,0,0,0,0,0,274
+9,sd0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/11,11,DOWN,Disabled Port,Enabled,0,0,0,0,0,297
+9,sd0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/12,12,DOWN,Disabled Port,Enabled,0,0,0,0,0,320
+9,sd0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/13,13,DOWN,Disabled Port,Enabled,0,0,0,0,0,343
+9,sd0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/14,14,DOWN,Disabled Port,Enabled,0,0,0,0,0,366
+9,sd0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/15,15,DOWN,Disabled Port,Enabled,0,0,0,0,0,389
+9,sd0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/16,16,DOWN,Disabled Port,Enabled,0,0,0,0,0,412
+9,sd0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/17,17,DOWN,Disabled Port,Enabled,0,0,0,0,0,435
+9,sd0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/18,18,DOWN,Disabled Port,Enabled,0,0,0,0,0,458
+9,sd0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/19,19,DOWN,Disabled Port,Enabled,0,0,0,0,0,481
+9,sd0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/20,20,DOWN,Disabled Port,Enabled,0,0,0,0,0,504
+9,sd0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/21,21,DOWN,Disabled Port,Enabled,0,0,0,0,0,527
+9,sd0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/22,22,DOWN,Disabled Port,Enabled,0,0,0,0,0,550
+9,sd0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/23,23,DOWN,Disabled Port,Enabled,0,0,0,0,0,573
+9,sd0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/24,24,DOWN,Disabled Port,Enabled,0,0,0,0,0,596
+9,sd0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,Ten-GigabitEthernet1/0/27,27,DOWN,Disabled Port,Enabled,0,0,0,0,0,619
+9,sd0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,Ten-GigabitEthernet1/0/28,28,DOWN,Disabled Port,Enabled,0,0,0,0,0,642
+10,sd1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,Bridge-Aggregation1,633,FORWARDING,Designated Port,Enabled,0,0,0,0,0,44
+10,sd1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/1,1,FORWARDING,Designated Port (Boundary),Enabled,13,0,0,0,13,67
+10,sd1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/2,2,FORWARDING,Designated Port (Boundary),Enabled,13,0,0,0,13,90
+10,sd1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/3,3,FORWARDING,Designated Port (Boundary),Enabled,32,0,0,0,32,113
+10,sd1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/4,4,DOWN,Disabled Port,Enabled,0,0,0,0,0,136
+10,sd1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/5,5,FORWARDING,Designated Port (Boundary),Enabled,2139624,0,0,0,2139624,159
+10,sd1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/6,6,DOWN,Disabled Port,Enabled,0,0,0,0,0,182
+10,sd1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/7,7,FORWARDING,Designated Port (Boundary),Enabled,11,0,0,0,11,205
+10,sd1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/8,8,DOWN,Disabled Port,Enabled,0,0,0,0,0,228
+10,sd1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/9,9,DOWN,Disabled Port,Enabled,0,0,0,0,0,251
+10,sd1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/10,10,DOWN,Disabled Port,Enabled,0,0,0,0,0,274
+10,sd1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/11,11,DOWN,Disabled Port,Enabled,0,0,0,0,0,297
+10,sd1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/12,12,DOWN,Disabled Port,Enabled,0,0,0,0,0,320
+10,sd1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/13,13,DOWN,Disabled Port,Enabled,0,0,0,0,0,343
+10,sd1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/14,14,DOWN,Disabled Port,Enabled,0,0,0,0,0,366
+10,sd1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/15,15,DOWN,Disabled Port,Enabled,0,0,0,0,0,389
+10,sd1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/16,16,DOWN,Disabled Port,Enabled,0,0,0,0,0,412
+10,sd1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/17,17,DOWN,Disabled Port,Enabled,0,0,0,0,0,435
+10,sd1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/18,18,DOWN,Disabled Port,Enabled,0,0,0,0,0,458
+10,sd1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/19,19,DOWN,Disabled Port,Enabled,0,0,0,0,0,481
+10,sd1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/20,20,DOWN,Disabled Port,Enabled,0,0,0,0,0,504
+10,sd1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/21,21,DOWN,Disabled Port,Enabled,0,0,0,0,0,527
+10,sd1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/22,22,DOWN,Disabled Port,Enabled,0,0,0,0,0,550
+10,sd1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/23,23,DOWN,Disabled Port,Enabled,0,0,0,0,0,573
+10,sd1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,GigabitEthernet1/0/24,24,DOWN,Disabled Port,Enabled,0,0,0,0,0,596
+10,sd1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,Ten-GigabitEthernet1/0/27,27,DOWN,Disabled Port,Enabled,0,0,0,0,0,619
+10,sd1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729682,Ten-GigabitEthernet1/0/28,28,DOWN,Disabled Port,Enabled,0,0,0,0,0,642
+11,pull0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729684,Bridge-Aggregation1,633,FORWARDING,Designated Port,Enabled,0,0,0,0,0,44
+11,pull0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729684,GigabitEthernet1/0/1,1,FORWARDING,Designated Port (Boundary),Enabled,13,0,0,0,13,67
+11,pull0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729684,GigabitEthernet1/0/2,2,FORWARDING,Designated Port (Boundary),Enabled,13,0,0,0,13,90
+11,pull0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729684,GigabitEthernet1/0/3,3,FORWARDING,Designated Port (Boundary),Enabled,32,0,0,0,32,113
+11,pull0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729684,GigabitEthernet1/0/4,4,DOWN,Disabled Port,Enabled,0,0,0,0,0,136
+11,pull0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729684,GigabitEthernet1/0/5,5,FORWARDING,Designated Port (Boundary),Enabled,2139626,0,0,0,2139626,159
+11,pull0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729684,GigabitEthernet1/0/6,6,DOWN,Disabled Port,Enabled,0,0,0,0,0,182
+11,pull0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729684,GigabitEthernet1/0/7,7,FORWARDING,Designated Port (Boundary),Enabled,11,0,0,0,11,205
+11,pull0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729684,GigabitEthernet1/0/8,8,DOWN,Disabled Port,Enabled,0,0,0,0,0,228
+11,pull0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729684,GigabitEthernet1/0/9,9,DOWN,Disabled Port,Enabled,0,0,0,0,0,251
+11,pull0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729684,GigabitEthernet1/0/10,10,DOWN,Disabled Port,Enabled,0,0,0,0,0,274
+11,pull0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729684,GigabitEthernet1/0/11,11,DOWN,Disabled Port,Enabled,0,0,0,0,0,297
+11,pull0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729684,GigabitEthernet1/0/12,12,DOWN,Disabled Port,Enabled,0,0,0,0,0,320
+11,pull0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729684,GigabitEthernet1/0/13,13,DOWN,Disabled Port,Enabled,0,0,0,0,0,343
+11,pull0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729684,GigabitEthernet1/0/14,14,DOWN,Disabled Port,Enabled,0,0,0,0,0,366
+11,pull0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729684,GigabitEthernet1/0/15,15,DOWN,Disabled Port,Enabled,0,0,0,0,0,389
+11,pull0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729684,GigabitEthernet1/0/16,16,DOWN,Disabled Port,Enabled,0,0,0,0,0,412
+11,pull0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729684,GigabitEthernet1/0/17,17,DOWN,Disabled Port,Enabled,0,0,0,0,0,435
+11,pull0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729684,GigabitEthernet1/0/18,18,DOWN,Disabled Port,Enabled,0,0,0,0,0,458
+11,pull0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729684,GigabitEthernet1/0/19,19,DOWN,Disabled Port,Enabled,0,0,0,0,0,481
+11,pull0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729684,GigabitEthernet1/0/20,20,DOWN,Disabled Port,Enabled,0,0,0,0,0,504
+11,pull0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729684,GigabitEthernet1/0/21,21,DOWN,Disabled Port,Enabled,0,0,0,0,0,527
+11,pull0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729684,GigabitEthernet1/0/22,22,DOWN,Disabled Port,Enabled,0,0,0,0,0,550
+11,pull0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729684,GigabitEthernet1/0/23,23,DOWN,Disabled Port,Enabled,0,0,0,0,0,573
+11,pull0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729684,GigabitEthernet1/0/24,24,DOWN,Disabled Port,Enabled,0,0,0,0,0,596
+11,pull0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729684,Ten-GigabitEthernet1/0/27,27,DOWN,Disabled Port,Enabled,0,0,0,0,0,619
+11,pull0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729684,Ten-GigabitEthernet1/0/28,28,DOWN,Disabled Port,Enabled,0,0,0,0,0,642
+12,pl_IP-1103.out,MSTP,4096.h-7efa89b11765,1729686,Bridge-Aggregation1,633,FORWARDING,Designated Port,Enabled,0,0,0,0,0,44
+12,pl_IP-1103.out,MSTP,4096.h-7efa89b11765,1729686,GigabitEthernet1/0/1,1,FORWARDING,Designated Port (Boundary),Enabled,13,0,0,0,13,67
+12,pl_IP-1103.out,MSTP,4096.h-7efa89b11765,1729686,GigabitEthernet1/0/2,2,FORWARDING,Designated Port (Boundary),Enabled,13,0,0,0,13,90
+12,pl_IP-1103.out,MSTP,4096.h-7efa89b11765,1729686,GigabitEthernet1/0/3,3,FORWARDING,Designated Port (Boundary),Enabled,32,0,0,0,32,113
+12,pl_IP-1103.out,MSTP,4096.h-7efa89b11765,1729686,GigabitEthernet1/0/4,4,DOWN,Disabled Port,Enabled,0,0,0,0,0,136
+12,pl_IP-1103.out,MSTP,4096.h-7efa89b11765,1729686,GigabitEthernet1/0/5,5,FORWARDING,Designated Port (Boundary),Enabled,2139628,0,0,0,2139628,159
+12,pl_IP-1103.out,MSTP,4096.h-7efa89b11765,1729686,GigabitEthernet1/0/6,6,DOWN,Disabled Port,Enabled,0,0,0,0,0,182
+12,pl_IP-1103.out,MSTP,4096.h-7efa89b11765,1729686,GigabitEthernet1/0/7,7,FORWARDING,Designated Port (Boundary),Enabled,11,0,0,0,11,205
+12,pl_IP-1103.out,MSTP,4096.h-7efa89b11765,1729686,GigabitEthernet1/0/8,8,DOWN,Disabled Port,Enabled,0,0,0,0,0,228
+12,pl_IP-1103.out,MSTP,4096.h-7efa89b11765,1729686,GigabitEthernet1/0/9,9,DOWN,Disabled Port,Enabled,0,0,0,0,0,251
+12,pl_IP-1103.out,MSTP,4096.h-7efa89b11765,1729686,GigabitEthernet1/0/10,10,DOWN,Disabled Port,Enabled,0,0,0,0,0,274
+12,pl_IP-1103.out,MSTP,4096.h-7efa89b11765,1729686,GigabitEthernet1/0/11,11,DOWN,Disabled Port,Enabled,0,0,0,0,0,297
+12,pl_IP-1103.out,MSTP,4096.h-7efa89b11765,1729686,GigabitEthernet1/0/12,12,DOWN,Disabled Port,Enabled,0,0,0,0,0,320
+12,pl_IP-1103.out,MSTP,4096.h-7efa89b11765,1729686,GigabitEthernet1/0/13,13,DOWN,Disabled Port,Enabled,0,0,0,0,0,343
+12,pl_IP-1103.out,MSTP,4096.h-7efa89b11765,1729686,GigabitEthernet1/0/14,14,DOWN,Disabled Port,Enabled,0,0,0,0,0,366
+12,pl_IP-1103.out,MSTP,4096.h-7efa89b11765,1729686,GigabitEthernet1/0/15,15,DOWN,Disabled Port,Enabled,0,0,0,0,0,389
+12,pl_IP-1103.out,MSTP,4096.h-7efa89b11765,1729686,GigabitEthernet1/0/16,16,DOWN,Disabled Port,Enabled,0,0,0,0,0,412
+12,pl_IP-1103.out,MSTP,4096.h-7efa89b11765,1729686,GigabitEthernet1/0/17,17,DOWN,Disabled Port,Enabled,0,0,0,0,0,435
+12,pl_IP-1103.out,MSTP,4096.h-7efa89b11765,1729686,GigabitEthernet1/0/18,18,DOWN,Disabled Port,Enabled,0,0,0,0,0,458
+12,pl_IP-1103.out,MSTP,4096.h-7efa89b11765,1729686,GigabitEthernet1/0/19,19,DOWN,Disabled Port,Enabled,0,0,0,0,0,481
+12,pl_IP-1103.out,MSTP,4096.h-7efa89b11765,1729686,GigabitEthernet1/0/20,20,DOWN,Disabled Port,Enabled,0,0,0,0,0,504
+12,pl_IP-1103.out,MSTP,4096.h-7efa89b11765,1729686,GigabitEthernet1/0/21,21,DOWN,Disabled Port,Enabled,0,0,0,0,0,527
+12,pl_IP-1103.out,MSTP,4096.h-7efa89b11765,1729686,GigabitEthernet1/0/22,22,DOWN,Disabled Port,Enabled,0,0,0,0,0,550
+12,pl_IP-1103.out,MSTP,4096.h-7efa89b11765,1729686,GigabitEthernet1/0/23,23,DOWN,Disabled Port,Enabled,0,0,0,0,0,573
+12,pl_IP-1103.out,MSTP,4096.h-7efa89b11765,1729686,GigabitEthernet1/0/24,24,DOWN,Disabled Port,Enabled,0,0,0,0,0,596
+12,pl_IP-1103.out,MSTP,4096.h-7efa89b11765,1729686,Ten-GigabitEthernet1/0/27,27,DOWN,Disabled Port,Enabled,0,0,0,0,0,619
+12,pl_IP-1103.out,MSTP,4096.h-7efa89b11765,1729686,Ten-GigabitEthernet1/0/28,28,DOWN,Disabled Port,Enabled,0,0,0,0,0,642
+13,fx0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,Bridge-Aggregation1,633,FORWARDING,Designated Port,Enabled,0,0,0,0,0,44
+13,fx0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/1,1,FORWARDING,Designated Port (Boundary),Enabled,13,0,0,0,13,67
+13,fx0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/2,2,FORWARDING,Designated Port (Boundary),Enabled,13,0,0,0,13,90
+13,fx0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/3,3,FORWARDING,Designated Port (Boundary),Enabled,32,0,0,0,32,113
+13,fx0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/4,4,DOWN,Disabled Port,Enabled,0,0,0,0,0,136
+13,fx0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/5,5,FORWARDING,Designated Port (Boundary),Enabled,2139632,0,0,0,2139632,159
+13,fx0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/6,6,DOWN,Disabled Port,Enabled,0,0,0,0,0,182
+13,fx0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/7,7,FORWARDING,Designated Port (Boundary),Enabled,11,0,0,0,11,205
+13,fx0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/8,8,DOWN,Disabled Port,Enabled,0,0,0,0,0,228
+13,fx0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/9,9,DOWN,Disabled Port,Enabled,0,0,0,0,0,251
+13,fx0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/10,10,DOWN,Disabled Port,Enabled,0,0,0,0,0,274
+13,fx0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/11,11,DOWN,Disabled Port,Enabled,0,0,0,0,0,297
+13,fx0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/12,12,DOWN,Disabled Port,Enabled,0,0,0,0,0,320
+13,fx0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/13,13,DOWN,Disabled Port,Enabled,0,0,0,0,0,343
+13,fx0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/14,14,DOWN,Disabled Port,Enabled,0,0,0,0,0,366
+13,fx0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/15,15,DOWN,Disabled Port,Enabled,0,0,0,0,0,389
+13,fx0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/16,16,DOWN,Disabled Port,Enabled,0,0,0,0,0,412
+13,fx0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/17,17,DOWN,Disabled Port,Enabled,0,0,0,0,0,435
+13,fx0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/18,18,DOWN,Disabled Port,Enabled,0,0,0,0,0,458
+13,fx0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/19,19,DOWN,Disabled Port,Enabled,0,0,0,0,0,481
+13,fx0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/20,20,DOWN,Disabled Port,Enabled,0,0,0,0,0,504
+13,fx0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/21,21,DOWN,Disabled Port,Enabled,0,0,0,0,0,527
+13,fx0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/22,22,DOWN,Disabled Port,Enabled,0,0,0,0,0,550
+13,fx0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/23,23,DOWN,Disabled Port,Enabled,0,0,0,0,0,573
+13,fx0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/24,24,DOWN,Disabled Port,Enabled,0,0,0,0,0,596
+13,fx0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,Ten-GigabitEthernet1/0/27,27,DOWN,Disabled Port,Enabled,0,0,0,0,0,619
+13,fx0_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,Ten-GigabitEthernet1/0/28,28,DOWN,Disabled Port,Enabled,0,0,0,0,0,642
+14,fx1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,Bridge-Aggregation1,633,FORWARDING,Designated Port,Enabled,0,0,0,0,0,44
+14,fx1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/1,1,FORWARDING,Designated Port (Boundary),Enabled,13,0,0,0,13,67
+14,fx1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/2,2,FORWARDING,Designated Port (Boundary),Enabled,13,0,0,0,13,90
+14,fx1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/3,3,FORWARDING,Designated Port (Boundary),Enabled,32,0,0,0,32,113
+14,fx1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/4,4,DOWN,Disabled Port,Enabled,0,0,0,0,0,136
+14,fx1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/5,5,FORWARDING,Designated Port (Boundary),Enabled,2139632,0,0,0,2139632,159
+14,fx1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/6,6,DOWN,Disabled Port,Enabled,0,0,0,0,0,182
+14,fx1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/7,7,FORWARDING,Designated Port (Boundary),Enabled,11,0,0,0,11,205
+14,fx1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/8,8,DOWN,Disabled Port,Enabled,0,0,0,0,0,228
+14,fx1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/9,9,DOWN,Disabled Port,Enabled,0,0,0,0,0,251
+14,fx1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/10,10,DOWN,Disabled Port,Enabled,0,0,0,0,0,274
+14,fx1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/11,11,DOWN,Disabled Port,Enabled,0,0,0,0,0,297
+14,fx1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/12,12,DOWN,Disabled Port,Enabled,0,0,0,0,0,320
+14,fx1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/13,13,DOWN,Disabled Port,Enabled,0,0,0,0,0,343
+14,fx1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/14,14,DOWN,Disabled Port,Enabled,0,0,0,0,0,366
+14,fx1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/15,15,DOWN,Disabled Port,Enabled,0,0,0,0,0,389
+14,fx1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/16,16,DOWN,Disabled Port,Enabled,0,0,0,0,0,412
+14,fx1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/17,17,DOWN,Disabled Port,Enabled,0,0,0,0,0,435
+14,fx1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/18,18,DOWN,Disabled Port,Enabled,0,0,0,0,0,458
+14,fx1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/19,19,DOWN,Disabled Port,Enabled,0,0,0,0,0,481
+14,fx1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/20,20,DOWN,Disabled Port,Enabled,0,0,0,0,0,504
+14,fx1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/21,21,DOWN,Disabled Port,Enabled,0,0,0,0,0,527
+14,fx1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/22,22,DOWN,Disabled Port,Enabled,0,0,0,0,0,550
+14,fx1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/23,23,DOWN,Disabled Port,Enabled,0,0,0,0,0,573
+14,fx1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,GigabitEthernet1/0/24,24,DOWN,Disabled Port,Enabled,0,0,0,0,0,596
+14,fx1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,Ten-GigabitEthernet1/0/27,27,DOWN,Disabled Port,Enabled,0,0,0,0,0,619
+14,fx1_IP-1103.out,MSTP,4096.h-7efa89b11765,1729690,Ten-GigabitEthernet1/0/28,28,DOWN,Disabled Port,Enabled,0,0,0,0,0,642

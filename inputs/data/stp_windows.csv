@@ -1,0 +1,4 @@
+﻿window,first_file,second_file,counter_first,counter_second,age_first_s,age_second_s,relative_interval_s,counter_delta
+aggregation_sd,sd0_IP-1103.out,sd1_IP-1103.out,1729682,1729682,27,316,289,0
+aggregation_fx,fx0_IP-1103.out,fx1_IP-1103.out,1729690,1729690,43,277,234,0
+access_fx,fx0_IP-1104.out,fx1_IP-1104.out,1712490,1712490,64,297,233,0
