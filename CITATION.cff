@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "TC-ingress localization from sparse CLI snapshots: code and derived data"
+authors:
+  - family-names: Bao
+    given-names: Xiaozhong
+    affiliation: "Keyi College of Zhejiang Sci-Tech University"
+    email: bxz@ky.zstu.edu.cn
+  - family-names: Wang
+    given-names: Juya
+    affiliation: "Keyi College of Zhejiang Sci-Tech University"
+  - family-names: Jiang
+    given-names: Jiawei
+    affiliation: "Keyi College of Zhejiang Sci-Tech University"
+  - family-names: Ye
+    given-names: Jiefeng
+    affiliation: "Keyi College of Zhejiang Sci-Tech University"
+version: "1.0.0"
+date-released: "2026-11-02"
+license: MIT
+keywords: [spanning tree protocol, topology change, fault localization, identifiability, campus network]

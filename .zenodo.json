@@ -1,0 +1,15 @@
+{
+  "title": "TC-ingress localization from sparse CLI snapshots: code and derived data",
+  "upload_type": "software",
+  "description": "Code and anonymized derived data accompanying the manuscript 'Localizing Topology-Change Ingress from Sparse CLI Snapshots: Identifiability Analysis and Validation in a Campus Wireless Network'.",
+  "creators": [
+    {"name": "Bao, Xiaozhong", "affiliation": "Keyi College of Zhejiang Sci-Tech University"},
+    {"name": "Wang, Juya", "affiliation": "Keyi College of Zhejiang Sci-Tech University"},
+    {"name": "Jiang, Jiawei", "affiliation": "Keyi College of Zhejiang Sci-Tech University"},
+    {"name": "Ye, Jiefeng", "affiliation": "Keyi College of Zhejiang Sci-Tech University"}
+  ],
+  "license": "MIT",
+  "keywords": ["spanning tree protocol", "topology change", "fault localization", "identifiability", "campus network"],
+  "grants": [],
+  "notes": "Funded by the 2025 Provincial Regular Undergraduate Teaching Reform Project of the Zhejiang Provincial Department of Education (JGCG2025429)."
+}
